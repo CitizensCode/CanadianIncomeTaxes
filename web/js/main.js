@@ -20,17 +20,17 @@ require(["d3", "nv.d3"], function(d3, c3){
       .showLegend(true);
 
     chart.xAxis
-      .axisLabel("Time (s)")
-      .tickFormat(d3.format(',.1f'));
+      .axisLabel("Income");
+      // .tickFormat(d3.format(',.1f'))
 
     chart.yAxis
-      .axisLabel('Voltage (V)')
-      .tickFormat(function(d) {
+      .axisLabel('Average Tax (%)');
+      /* .tickFormat(function(d) {
         if (d == null) {
           return 'N/A';
         }
         return d3.format(',.2f')(d);
-      });
+      });*/
 
       data = [
         {
