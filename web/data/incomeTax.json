@@ -62,7 +62,12 @@
         [{"upper": "41909","rate": "4.0"},
         {"upper": "83818","rate": "7.0"},
         {"upper": "136270","rate": "9.0"},
-        {"upper": "Above","rate": "11.5"}]
+        {"upper": "Above","rate": "11.5"}],
+      "Quebec":
+        [{"upper": "41495","rate": "16.0"},
+        {"upper": "82985","rate": "20.0"},
+        {"upper": "100970","rate": "24.0"},
+        {"upper": "Above","rate": "25.75"}]
     }
   }
 ]

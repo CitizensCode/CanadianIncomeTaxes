@@ -605,9 +605,11 @@ svg.nvd3-svg {
 .nvtooltip table tr.highlight td {
     padding: 1px 9px 1px 0;
     border-bottom-style: solid;
-    border-bottom-width: 1px;
+    border-bottom-width: 3px;
     border-top-style: solid;
-    border-top-width: 1px;
+    border-top-width: 3px;
+    font-weight: bold;
+    font-size: 1.2em;
 }
 
 .nvtooltip table td.legend-color-guide div {
