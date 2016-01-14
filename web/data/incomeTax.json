@@ -69,5 +69,165 @@
         {"upper": "100970","rate": "24.0"},
         {"upper": "Above","rate": "25.75"}]
     }
+  },
+  {"year" : "2015",
+   "data": {
+      "Federal":
+        [{"upper": "44701","rate": "15"},
+        {"upper": "89401","rate": "22"},
+        {"upper": "138586","rate": "26"},
+        {"upper": "Above","rate": "29"}],
+      "Newfoundland and Labrador":
+        [{"upper": "35008","rate": "7.7"},
+        {"upper": "70015","rate": "12.5"},
+        {"upper": "125000","rate": "13.3"},
+        {"upper": "175000","rate": "13.8"},
+        {"upper": "Above","rate": "14.3"}],
+      "Prince Edward Island":
+        [{"upper": "31984","rate": "9.8"},
+        {"upper": "63969","rate": "13.8"},
+        {"upper": "Above","rate": "16.7"}],
+      "Nova Scotia":
+        [{"upper": "29590","rate": "8.79"},
+        {"upper": "59180","rate": "14.95"},
+        {"upper": "93000","rate": "16.67"},
+        {"upper": "150000","rate": "17.5"},
+        {"upper": "Above","rate": "21"}],
+      "New Brunswick":
+        [{"upper": "39973","rate": "9.68"},
+        {"upper": "79946","rate": "14.82"},
+        {"upper": "129975","rate": "16.52"},
+        {"upper": "150000","rate": "17.84"},
+        {"upper": "250000","rate": "21.00"},
+        {"upper": "Above","rate": "25.75"}],
+      "Ontario":
+        [{"upper": "40922","rate": "5.05"},
+        {"upper": "81847","rate": "9.15"},
+        {"upper": "150000","rate": "11.16"},
+        {"upper": "220000","rate": "12.16"},
+        {"upper": "Above","rate": "13.16"}],
+      "Manitoba":
+        [{"upper": "31000","rate": "10.8"},
+        {"upper": "67000","rate": "12.75"},
+        {"upper": "Above","rate": "17.4"}],
+      "Saskatchewan":
+        [{"upper": "44028","rate": "11.0"},
+        {"upper": "125795","rate": "13.0"},
+        {"upper": "Above","rate": "15.0"}],
+      "Alberta":
+        [{"upper": "125000","rate": "10.0"},
+        {"upper": "150000","rate": "10.5"},
+        {"upper": "200000","rate": "10.75"},
+        {"upper": "300000","rate": "11.0"},
+        {"upper": "Above","rate": "11.25"}],
+      "British Columbia":
+        [{"upper": "37869","rate": "5.06"},
+        {"upper": "75740","rate": "7.7"},
+        {"upper": "86958","rate": "10.5"},
+        {"upper": "105592","rate": "12.29"},
+        {"upper": "151051","rate": "14.7"},
+        {"upper": "Above","rate": "16.8"}],
+      "Yukon":
+        [{"upper": "44701","rate": "6.40"},
+        {"upper": "89401","rate": "9.00"},
+        {"upper": "138586","rate": "10.9"},
+        {"upper": "500000","rate": "12.8"},
+        {"upper": "Above","rate": "15.0"}],
+      "Northwest Territories":
+        [{"upper": "40484","rate": "5.9"},
+        {"upper": "80971","rate": "8.6"},
+        {"upper": "131641","rate": "12.2"},
+        {"upper": "Above","rate": "14.05"}],
+      "Nunavut":
+        [{"upper": "42622","rate": "4.0"},
+        {"upper": "85243","rate": "7.0"},
+        {"upper": "138586","rate": "9.0"},
+        {"upper": "Above","rate": "11.5"}],
+      "Quebec":
+        [{"upper": "41935","rate": "16.0"},
+        {"upper": "83865","rate": "20.0"},
+        {"upper": "102040","rate": "24.0"},
+        {"upper": "Above","rate": "25.75"}]
+    }
+  },
+    {"year" : "2016",
+   "data": {
+      "Federal":
+        [{"upper": "45282","rate": "15"},
+        {"upper": "90563","rate": "20.5"},
+        {"upper": "140388","rate": "26"},
+        {"upper": "200000","rate": "29"},
+        {"upper": "Above", "rate": "33"}],
+      "Newfoundland and Labrador":
+        [{"upper": "35008","rate": "7.7"},
+        {"upper": "70015","rate": "12.5"},
+        {"upper": "125000","rate": "13.3"},
+        {"upper": "175000","rate": "14.3"},
+        {"upper": "Above","rate": "15.3"}],
+      "Prince Edward Island":
+        [{"upper": "31984","rate": "9.8"},
+        {"upper": "63969","rate": "13.8"},
+        {"upper": "Above","rate": "16.7"}],
+      "Nova Scotia":
+        [{"upper": "29590","rate": "8.79"},
+        {"upper": "59180","rate": "14.95"},
+        {"upper": "93000","rate": "16.67"},
+        {"upper": "150000","rate": "17.5"},
+        {"upper": "Above","rate": "21"}],
+      "New Brunswick":
+        [{"upper": "39973","rate": "9.68"},
+        {"upper": "79946","rate": "14.82"},
+        {"upper": "129975","rate": "16.52"},
+        {"upper": "150000","rate": "17.84"},
+        {"upper": "250000","rate": "21.00"},
+        {"upper": "Above","rate": "25.75"}],
+      "Ontario":
+        [{"upper": "40922","rate": "5.05"},
+        {"upper": "81847","rate": "9.15"},
+        {"upper": "150000","rate": "11.16"},
+        {"upper": "220000","rate": "12.16"},
+        {"upper": "Above","rate": "13.16"}],
+      "Manitoba":
+        [{"upper": "31000","rate": "10.8"},
+        {"upper": "67000","rate": "12.75"},
+        {"upper": "Above","rate": "17.4"}],
+      "Saskatchewan":
+        [{"upper": "44028","rate": "11.0"},
+        {"upper": "125795","rate": "13.0"},
+        {"upper": "Above","rate": "15.0"}],
+      "Alberta":
+        [{"upper": "125000","rate": "10.0"},
+        {"upper": "150000","rate": "12"},
+        {"upper": "200000","rate": "13"},
+        {"upper": "300000","rate": "14"},
+        {"upper": "Above","rate": "15"}],
+      "British Columbia":
+        [{"upper": "37869","rate": "5.06"},
+        {"upper": "75740","rate": "7.7"},
+        {"upper": "86958","rate": "10.5"},
+        {"upper": "105592","rate": "12.29"},
+        {"upper": "Above","rate": "14.7"}],
+      "Yukon":
+        [{"upper": "44701","rate": "6.40"},
+        {"upper": "89401","rate": "9.00"},
+        {"upper": "138586","rate": "10.9"},
+        {"upper": "500000","rate": "12.8"},
+        {"upper": "Above","rate": "15.0"}],
+      "Northwest Territories":
+        [{"upper": "40484","rate": "5.9"},
+        {"upper": "80971","rate": "8.6"},
+        {"upper": "131641","rate": "12.2"},
+        {"upper": "Above","rate": "14.05"}],
+      "Nunavut":
+        [{"upper": "42622","rate": "4.0"},
+        {"upper": "85243","rate": "7.0"},
+        {"upper": "138586","rate": "9.0"},
+        {"upper": "Above","rate": "11.5"}],
+      "Quebec":
+        [{"upper": "41935","rate": "16.0"},
+        {"upper": "83865","rate": "20.0"},
+        {"upper": "102040","rate": "24.0"},
+        {"upper": "Above","rate": "25.75"}]
+    }
   }
 ]

@@ -1,12 +1,3 @@
-requirejs.config({
-    baseUrl: "js/lib",
-    paths: {
-      d3: "http://d3js.org/d3.v3.min"
-    }
-});
-
-require(["d3", "nv.d3"], function(d3, c3){
-
 var chart;
 var data;
 
@@ -21,7 +12,8 @@ nv.addGraph(function() {
       useInteractiveGuideline: true,
       forceX: [5000],
       forceY: [.18, .52],
-      showLegend: true
+      showLegend: true,
+      xScale: d3.scale.linear()
     });
 
   chart.xAxis
@@ -37,10 +29,7 @@ nv.addGraph(function() {
     .call(chart);
 
   nv.utils.windowResize(chart.update);
-
   return chart;
-
-});
 
 });
 
