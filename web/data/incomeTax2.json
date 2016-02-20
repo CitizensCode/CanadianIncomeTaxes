@@ -325,7 +325,7 @@
           {"upper": "Above", "rate": "33"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "15"}
+          {"type": "personal", "amount": "11474", "percent": "15"}
         ]
       },
       "Newfoundland and Labrador":{
@@ -337,7 +337,7 @@
           {"upper": "Above","rate": "15.3"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "7.7"}
+          {"type": "personal", "amount": "8802", "percent": "7.7"}
         ]
       },
       "Prince Edward Island":{
@@ -347,7 +347,7 @@
           {"upper": "Above","rate": "16.7"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "9.8"}
+          {"type": "personal", "amount": "7708", "percent": "9.8"}
         ]
       },
       "Nova Scotia":{
@@ -359,7 +359,7 @@
           {"upper": "Above","rate": "21"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "8.79"}
+          {"type": "personal", "amount": "8481", "percent": "8.79"}
         ]
       },
       "New Brunswick":{
@@ -372,7 +372,7 @@
           {"upper": "Above","rate": "25.75"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "9.68"}
+          {"type": "personal", "amount": "9758", "percent": "9.68"}
         ]
       },
       "Ontario":{
@@ -384,7 +384,7 @@
           {"upper": "Above","rate": "13.16"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "5.05"}
+          {"type": "personal", "amount": "10011", "percent": "5.05"}
         ]
       },
       "Manitoba":{
@@ -394,7 +394,7 @@
           {"upper": "Above","rate": "17.4"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "10.8"}
+          {"type": "personal", "amount": "9134", "percent": "10.8"}
         ]
       },
       "Saskatchewan":{
@@ -404,7 +404,7 @@
           {"upper": "Above","rate": "15.0"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "11.0"}
+          {"type": "personal", "amount": "15843", "percent": "11.0"}
         ]
       },
       "Alberta":{
@@ -416,7 +416,7 @@
           {"upper": "Above","rate": "15"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "10.0"}
+          {"type": "personal", "amount": "18451", "percent": "10.0"}
         ]
       },
       "British Columbia":{
@@ -428,7 +428,7 @@
           {"upper": "Above","rate": "14.7"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "5.06"}
+          {"type": "personal", "amount": "10027", "percent": "5.06"}
         ]
       },
       "Yukon":{
@@ -440,7 +440,7 @@
           {"upper": "Above","rate": "15.0"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "6.4"}
+          {"type": "personal", "amount": "11474", "percent": "6.4"}
         ]
       },
       "Northwest Territories":{
@@ -451,7 +451,7 @@
           {"upper": "Above","rate": "14.05"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "5.9"}
+          {"type": "personal", "amount": "14081", "percent": "5.9"}
         ]
       },
       "Nunavut":{
@@ -462,7 +462,7 @@
           {"upper": "Above","rate": "11.5"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "4.0"}
+          {"type": "personal", "amount": "12947", "percent": "4.0"}
         ]
       },
       "Quebec":{
@@ -473,7 +473,7 @@
           {"upper": "Above","rate": "25.75"}
         ],
         "exemption": [
-          {"type": "personal", "amount": "11138", "percent": "20.0"}
+          {"type": "personal", "amount": "11550", "percent": "20.0"}
         ]
       }
     }
