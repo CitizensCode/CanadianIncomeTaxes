@@ -8,7 +8,7 @@
           {"upper": "136270","rate": "26"},
           {"upper": "Above","rate": "29"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "11138", "percent": "15.0"}
         ]
       },
@@ -17,7 +17,7 @@
           {"upper": "34254","rate": "7.7"},
           {"upper": "68508","rate": "12.5"},
           {"upper": "Above","rate": "13.3"}],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "8578", "percent": "7.7"}
         ]
       },
@@ -26,7 +26,7 @@
           {"upper": "31984","rate": "9.8"},
           {"upper": "63969","rate": "13.8"},
           {"upper": "Above","rate": "16.7"}],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "7708", "percent": "9.8"}
         ]
       },
@@ -37,7 +37,7 @@
           {"upper": "93000","rate": "16.67"},
           {"upper": "150000","rate": "17.5"},
           {"upper": "Above","rate": "21"}],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "8481", "percent": "8.79"}
         ]
       },
@@ -46,8 +46,8 @@
           {"upper": "39305","rate": "9.68"},
           {"upper": "78609","rate": "14.82"},
           {"upper": "127802","rate": "16.52"},
-          {"upper": "Above","rate": "17.84"}],,
-        "exemption": [
+          {"upper": "Above","rate": "17.84"}],
+        "credits": [
           {"type": "personal", "amount": "9472", "percent": "9.68"}
         ]
       },
@@ -59,7 +59,7 @@
           {"upper": "220000","rate": "12.16"},
           {"upper": "Above","rate": "13.16"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "9670", "percent": "5.05"}
         ]
       },
@@ -69,7 +69,7 @@
           {"upper": "67000","rate": "12.75"},
           {"upper": "Above","rate": "17.4"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "9134", "percent": "10.8"}
         ]
       },
@@ -79,7 +79,7 @@
           {"upper": "123692","rate": "13.0"},
           {"upper": "Above","rate": "15.0"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "15378", "percent": "11.0"}
         ]
       },
@@ -87,7 +87,7 @@
         "brackets": [
           {"upper": "Above","rate": "10.0"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "17787", "percent": "10"}
         ]
       },
@@ -100,7 +100,7 @@
           {"upper": "150000","rate": "14.7"},
           {"upper": "Above","rate": "16.8"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "9869", "percent": "5.06"}
         ]
       },
@@ -111,7 +111,7 @@
           {"upper": "136270","rate": "11.44"},
           {"upper": "Above","rate": "12.76"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "11138", "percent": "7.04"}
         ]
       },
@@ -122,7 +122,7 @@
           {"upper": "129441","rate": "12.2"},
           {"upper": "Above","rate": "14.05"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "13668", "percent": "5.9"}
         ]
       },
@@ -133,7 +133,7 @@
           {"upper": "136270","rate": "9.0"},
           {"upper": "Above","rate": "11.5"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "12567", "percent": "4.0"}
         ]
       },
@@ -144,7 +144,7 @@
           {"upper": "100970","rate": "24.0"},
           {"upper": "Above","rate": "25.75"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "11305", "percent": "20"}
         ]
       }
@@ -159,7 +159,7 @@
           {"upper": "138586","rate": "26"},
           {"upper": "Above","rate": "29"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "11327", "percent": "15"}
         ]
       },
@@ -171,7 +171,7 @@
           {"upper": "175000","rate": "13.8"},
           {"upper": "Above","rate": "14.3"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "8767", "percent": "7.7"}
         ]
       },
@@ -181,7 +181,7 @@
           {"upper": "63969","rate": "13.8"},
           {"upper": "Above","rate": "16.7"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "7708", "percent": "9.8"}
         ]
       },
@@ -193,7 +193,7 @@
           {"upper": "150000","rate": "17.5"},
           {"upper": "Above","rate": "21"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "8481", "percent": "8.79"}
         ]
       },
@@ -206,7 +206,7 @@
           {"upper": "250000","rate": "21.00"},
           {"upper": "Above","rate": "25.75"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "9633", "percent": "9.68"}
         ]
       },
@@ -218,7 +218,7 @@
           {"upper": "220000","rate": "12.16"},
           {"upper": "Above","rate": "13.16"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "9863", "percent": "5.05"}
         ]
       },
@@ -228,7 +228,7 @@
           {"upper": "67000","rate": "12.75"},
           {"upper": "Above","rate": "17.4"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "9134", "percent": "10.8"}
         ]
       },
@@ -238,7 +238,7 @@
           {"upper": "125795","rate": "13.0"},
           {"upper": "Above","rate": "15.0"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "15639", "percent": "11.0"}
         ]
       },
@@ -250,7 +250,7 @@
           {"upper": "300000","rate": "11.0"},
           {"upper": "Above","rate": "11.25"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "18214", "percent": "10.0"}
         ]
       },
@@ -263,7 +263,7 @@
           {"upper": "151051","rate": "14.7"},
           {"upper": "Above","rate": "16.8"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "9938", "percent": "5.06"}
         ]
       },
@@ -275,7 +275,7 @@
           {"upper": "500000","rate": "12.8"},
           {"upper": "Above","rate": "15.0"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "11327", "percent": "6.40"}
         ]
       },
@@ -286,7 +286,7 @@
           {"upper": "131641","rate": "12.2"},
           {"upper": "Above","rate": "14.05"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "13900", "percent": "5.9"}
         ]
       },
@@ -297,7 +297,7 @@
           {"upper": "138586","rate": "9.0"},
           {"upper": "Above","rate": "11.5"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "12781", "percent": "4.0"}
         ]
       },
@@ -308,7 +308,7 @@
           {"upper": "102040","rate": "24.0"},
           {"upper": "Above","rate": "25.75"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "11425", "percent": "20.0"}
         ]
       }
@@ -324,7 +324,7 @@
           {"upper": "200000","rate": "29"},
           {"upper": "Above", "rate": "33"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "11474", "percent": "15"}
         ]
       },
@@ -336,7 +336,7 @@
           {"upper": "175700","rate": "14.3"},
           {"upper": "Above","rate": "15.3"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "8802", "percent": "7.7"}
         ]
       },
@@ -346,7 +346,7 @@
           {"upper": "63969","rate": "13.8"},
           {"upper": "Above","rate": "16.7"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "7708", "percent": "9.8"}
         ]
       },
@@ -358,7 +358,7 @@
           {"upper": "150000","rate": "17.5"},
           {"upper": "Above","rate": "21"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "8481", "percent": "8.79"}
         ]
       },
@@ -371,7 +371,7 @@
           {"upper": "250000","rate": "21.00"},
           {"upper": "Above","rate": "25.75"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "9758", "percent": "9.68"}
         ]
       },
@@ -383,7 +383,7 @@
           {"upper": "220000","rate": "12.16"},
           {"upper": "Above","rate": "13.16"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "10011", "percent": "5.05"}
         ]
       },
@@ -393,7 +393,7 @@
           {"upper": "67000","rate": "12.75"},
           {"upper": "Above","rate": "17.4"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "9134", "percent": "10.8"}
         ]
       },
@@ -403,7 +403,7 @@
           {"upper": "127430","rate": "13.0"},
           {"upper": "Above","rate": "15.0"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "15843", "percent": "11.0"}
         ]
       },
@@ -415,7 +415,7 @@
           {"upper": "300000","rate": "14"},
           {"upper": "Above","rate": "15"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "18451", "percent": "10.0"}
         ]
       },
@@ -427,7 +427,7 @@
           {"upper": "106543","rate": "12.29"},
           {"upper": "Above","rate": "14.7"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "10027", "percent": "5.06"}
         ]
       },
@@ -439,7 +439,7 @@
           {"upper": "500000","rate": "12.8"},
           {"upper": "Above","rate": "15.0"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "11474", "percent": "6.4"}
         ]
       },
@@ -450,7 +450,7 @@
           {"upper": "133353","rate": "12.2"},
           {"upper": "Above","rate": "14.05"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "14081", "percent": "5.9"}
         ]
       },
@@ -461,7 +461,7 @@
           {"upper": "140388","rate": "9.0"},
           {"upper": "Above","rate": "11.5"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "12947", "percent": "4.0"}
         ]
       },
@@ -472,7 +472,7 @@
           {"upper": "103150","rate": "24.0"},
           {"upper": "Above","rate": "25.75"}
         ],
-        "exemption": [
+        "credits": [
           {"type": "personal", "amount": "11550", "percent": "20.0"}
         ]
       }
