@@ -28,6 +28,9 @@
           {"upper": "Above","rate": "16.7"}],
         "credits": [
           {"type": "personal", "amount": "7708", "percent": "9.8"}
+        ],
+        "surtaxes": [
+          {"lower": "12500", "rate": "10.0"}
         ]
       },
       "Nova Scotia": {
@@ -61,6 +64,10 @@
         ],
         "credits": [
           {"type": "personal", "amount": "9670", "percent": "5.05"}
+        ],
+        "surtaxes": [
+          {"lower": "4331", "rate": "20.0"},
+          {"lower": "5543", "rate": "36.0"}
         ]
       },
       "Manitoba":{
@@ -113,6 +120,9 @@
         ],
         "credits": [
           {"type": "personal", "amount": "11138", "percent": "7.04"}
+        ],
+        "surtaxes": [
+          {"lower": "6000", "rate": "5.0"}
         ]
       },
       "Northwest Territories":{
@@ -183,6 +193,9 @@
         ],
         "credits": [
           {"type": "personal", "amount": "7708", "percent": "9.8"}
+        ],
+        "surtaxes": [
+          {"lower": "12500", "rate": "10.0"}
         ]
       },
       "Nova Scotia":{
@@ -220,7 +233,11 @@
         ],
         "credits": [
           {"type": "personal", "amount": "9863", "percent": "5.05"}
-        ]
+          ],
+          "surtaxes": [
+            {"lower": "4418", "rate": "20.0"},
+            {"lower": "5654", "rate": "36.0"}
+          ]
       },
       "Manitoba":{
         "brackets": [
@@ -348,6 +365,9 @@
         ],
         "credits": [
           {"type": "personal", "amount": "7708", "percent": "9.8"}
+        ],
+        "surtaxes": [
+          {"lower": "12500", "rate": "10.0"}
         ]
       },
       "Nova Scotia":{
@@ -385,6 +405,10 @@
         ],
         "credits": [
           {"type": "personal", "amount": "10011", "percent": "5.05"}
+        ],
+        "surtaxes": [
+          {"lower": "4484", "rate": "20.0"},
+          {"lower": "5739", "rate": "36.0"}
         ]
       },
       "Manitoba":{
