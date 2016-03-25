@@ -68,6 +68,19 @@
         "surtaxes": [
           {"lower": "4331", "rate": "20.0"},
           {"lower": "5543", "rate": "36.0"}
+        ],
+        "healthfee": [
+          {"lower": "0", "upper": "20000", "rate":"0", "value":"0"},
+          {"lower": "20001", "upper": "25000", "rate":"6", "value": "0"},
+          {"lower": "25001", "upper": "36000", "value": "300", "rate": "0"},
+          {"lower": "36001", "upper": "38500", "rate":"6", "value": "300"},
+          {"lower": "38501", "upper": "48000", "rate":"0", "value": "450"},
+          {"lower": "48001", "upper": "48600", "rate":"25", "value": "450"},
+          {"lower": "48601", "upper": "72000", "rate":"0", "value": "600"},
+          {"lower": "72001", "upper": "72600", "rate":"25", "value": "600"},
+          {"lower": "72601", "upper": "200000", "rate":"0", "value": "750"},
+          {"lower": "200001", "upper": "200600", "rate":"25", "value": "750"},
+          {"lower": "200601", "upper": "9999999999999", "rate":"0", "value": "900"}
         ]
       },
       "Manitoba":{
@@ -109,6 +122,14 @@
         ],
         "credits": [
           {"type": "personal", "amount": "9869", "percent": "5.06"}
+        ],
+        "healthfee": [
+          {"lower": "0", "upper": "22000", "rate":"0", "value":"0"},
+          {"lower": "22001", "upper": "24000", "rate":"0", "value":"153.60"},
+          {"lower": "24001", "upper": "26000", "rate":"0", "value":"307.20"},
+          {"lower": "26001", "upper": "28000", "rate":"0", "value":"460.80"},
+          {"lower": "28001", "upper": "30000", "rate":"0", "value":"614.40"},
+          {"lower": "30001", "upper": "99999999999999", "rate":"0", "value":"831.0"}
         ]
       },
       "Yukon":{
@@ -156,6 +177,15 @@
         ],
         "credits": [
           {"type": "personal", "amount": "11305", "percent": "20"}
+        ],
+        "healthfee": [
+          {"lower": "0", "upper": "18175", "rate":"0", "value":"0"},
+          {"lower": "18176", "upper": "20195", "rate":"5", "value":"0"},
+          {"lower": "20196", "upper": "40390", "rate":"0", "value":"100"},
+          {"lower": "40391", "upper": "42405", "rate":"5", "value":"100"},
+          {"lower": "42406", "upper": "131260", "rate":"0", "value":"200"},
+          {"lower": "131261", "upper": "151455", "rate":"4", "value":"200"},
+          {"lower": "151456", "upper": "9999999999999", "rate":"0", "value":"1000"}
         ]
       }
     }
@@ -234,10 +264,23 @@
         "credits": [
           {"type": "personal", "amount": "9863", "percent": "5.05"}
           ],
-          "surtaxes": [
-            {"lower": "4418", "rate": "20.0"},
-            {"lower": "5654", "rate": "36.0"}
-          ]
+        "surtaxes": [
+          {"lower": "4418", "rate": "20.0"},
+          {"lower": "5654", "rate": "36.0"}
+        ],
+        "healthfee": [
+          {"lower": "0", "upper": "20000", "rate":"0", "value":"0"},
+          {"lower": "20001", "upper": "25000", "rate":"6", "value": "0"},
+          {"lower": "25001", "upper": "36000", "value": "300", "rate": "0"},
+          {"lower": "36001", "upper": "38500", "rate":"6", "value": "300"},
+          {"lower": "38501", "upper": "48000", "rate":"0", "value": "450"},
+          {"lower": "48001", "upper": "48600", "rate":"25", "value": "450"},
+          {"lower": "48601", "upper": "72000", "rate":"0", "value": "600"},
+          {"lower": "72001", "upper": "72600", "rate":"25", "value": "600"},
+          {"lower": "72601", "upper": "200000", "rate":"0", "value": "750"},
+          {"lower": "200001", "upper": "200600", "rate":"25", "value": "750"},
+          {"lower": "200601", "upper": "9999999999999", "rate":"0", "value": "900"}
+        ]
       },
       "Manitoba":{
         "brackets": [
@@ -282,6 +325,14 @@
         ],
         "credits": [
           {"type": "personal", "amount": "9938", "percent": "5.06"}
+        ],
+        "healthfee": [
+          {"lower": "0", "upper": "22000", "rate":"0", "value":"0"},
+          {"lower": "22001", "upper": "24000", "rate":"0", "value":"153.60"},
+          {"lower": "24001", "upper": "26000", "rate":"0", "value":"307.20"},
+          {"lower": "26001", "upper": "28000", "rate":"0", "value":"460.80"},
+          {"lower": "28001", "upper": "30000", "rate":"0", "value":"614.40"},
+          {"lower": "30001", "upper": "99999999999999", "rate":"0", "value":"864.0"}
         ]
       },
       "Yukon":{
@@ -327,6 +378,15 @@
         ],
         "credits": [
           {"type": "personal", "amount": "11425", "percent": "20.0"}
+        ],
+        "healthfee": [
+          {"lower": "0", "upper": "18370", "rate":"0", "value":"0"},
+          {"lower": "18371", "upper": "20370", "rate":"5", "value":"0"},
+          {"lower": "20371", "upper": "40820", "rate":"0", "value":"100"},
+          {"lower": "40821", "upper": "42820", "rate":"5", "value":"100"},
+          {"lower": "42821", "upper": "132650", "rate":"0", "value":"200"},
+          {"lower": "132651", "upper": "152650", "rate":"4", "value":"200"},
+          {"lower": "152651", "upper": "9999999999999", "rate":"0", "value":"1000"}
         ]
       }
     }
@@ -409,6 +469,19 @@
         "surtaxes": [
           {"lower": "4484", "rate": "20.0"},
           {"lower": "5739", "rate": "36.0"}
+        ],
+        "healthfee": [
+          {"lower": "0", "upper": "20000", "rate":"0", "value":"0"},
+          {"lower": "20001", "upper": "25000", "rate":"6", "value": "0"},
+          {"lower": "25001", "upper": "36000", "value": "300", "rate": "0"},
+          {"lower": "36001", "upper": "38500", "rate":"6", "value": "300"},
+          {"lower": "38501", "upper": "48000", "rate":"0", "value": "450"},
+          {"lower": "48001", "upper": "48600", "rate":"25", "value": "450"},
+          {"lower": "48601", "upper": "72000", "rate":"0", "value": "600"},
+          {"lower": "72001", "upper": "72600", "rate":"25", "value": "600"},
+          {"lower": "72601", "upper": "200000", "rate":"0", "value": "750"},
+          {"lower": "200001", "upper": "200600", "rate":"25", "value": "750"},
+          {"lower": "200601", "upper": "9999999999999", "rate":"0", "value": "900"}
         ]
       },
       "Manitoba":{
@@ -453,6 +526,14 @@
         ],
         "credits": [
           {"type": "personal", "amount": "10027", "percent": "5.06"}
+        ],
+        "healthfee": [
+          {"lower": "0", "upper": "22000", "rate":"0", "value":"0"},
+          {"lower": "22001", "upper": "24000", "rate":"0", "value":"153.60"},
+          {"lower": "24001", "upper": "26000", "rate":"0", "value":"307.20"},
+          {"lower": "26001", "upper": "28000", "rate":"0", "value":"460.80"},
+          {"lower": "28001", "upper": "30000", "rate":"0", "value":"614.40"},
+          {"lower": "30001", "upper": "99999999999999", "rate":"0", "value":"900.0"}
         ]
       },
       "Yukon":{
@@ -498,6 +579,12 @@
         ],
         "credits": [
           {"type": "personal", "amount": "11550", "percent": "20.0"}
+        ],
+        "healthfeeqc": [
+          {"lower": "0", "upper": "18570", "rate":"0", "value":"0", "max":"0"},
+          {"lower": "18571", "upper": "41265", "rate":"5", "value":"0", "max":"50"},
+          {"lower": "41266", "upper": "134095", "rate":"5", "value":"50", "max":"175"},
+          {"lower": "134096", "upper": "9999999999999", "rate":"4", "value":"175", "max":"1000"}
         ]
       }
     }
