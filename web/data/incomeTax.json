@@ -1,4 +1,4 @@
-[
+[ 
   {"year" : "2014",
    "data": {
       "Federal": {
@@ -10,7 +10,16 @@
         ],
         "credits": [
           {"type": "personal", "amount": "11138", "percent": "15.0"}
-        ]
+        ],
+        "cpp": {
+          "maxIncome": "52500",
+          "exemption": "3500",
+          "rate": "4.95"
+        },
+        "ei": {
+          "maxIncome": "48600",
+          "rate": "1.88"
+        }
       },
       "Newfoundland and Labrador": {
         "brackets": [
@@ -186,7 +195,20 @@
           {"lower": "42406", "upper": "131260", "rate":"0", "value":"200"},
           {"lower": "131261", "upper": "151455", "rate":"4", "value":"200"},
           {"lower": "151456", "upper": "9999999999999", "rate":"0", "value":"1000"}
-        ]
+        ],
+        "cpp": {
+          "maxIncome": "52500",
+          "exemption": "3500",
+          "rate": "5.175"
+        },
+        "ei": {
+          "maxIncome": "48600",
+          "rate": "1.53"
+        },
+        "qpip": {
+          "maxIncome": "69000",
+          "rate": "0.559"
+        }
       }
     }
   },
@@ -201,7 +223,16 @@
         ],
         "credits": [
           {"type": "personal", "amount": "11327", "percent": "15"}
-        ]
+        ],
+        "cpp": {
+          "maxIncome": "53600",
+          "exemption": "3500",
+          "rate": "4.95"
+        },
+        "ei": {
+          "maxIncome": "49500",
+          "rate": "1.88"
+        }
       },
       "Newfoundland and Labrador":{
         "brackets": [
@@ -387,7 +418,20 @@
           {"lower": "42821", "upper": "132650", "rate":"0", "value":"200"},
           {"lower": "132651", "upper": "152650", "rate":"4", "value":"200"},
           {"lower": "152651", "upper": "9999999999999", "rate":"0", "value":"1000"}
-        ]
+        ],
+        "cpp": {
+          "maxIncome": "53600",
+          "exemption": "3500",
+          "rate": "5.25"
+        },
+        "ei": {
+          "maxIncome": "49500",
+          "rate": "1.54"
+        },
+        "qpip": {
+          "maxIncome": "70000",
+          "rate": "0.559"
+        }
       }
     }
   },
@@ -403,7 +447,16 @@
         ],
         "credits": [
           {"type": "personal", "amount": "11474", "percent": "15"}
-        ]
+        ],
+        "cpp": {
+          "maxIncome": "54900",
+          "exemption": "3500",
+          "rate": "4.95"
+        },
+        "ei": {
+          "maxIncome": "50800",
+          "rate": "1.88"
+        }
       },
       "Newfoundland and Labrador":{
         "brackets": [
@@ -585,7 +638,20 @@
           {"lower": "18571", "upper": "41265", "rate":"5", "value":"0", "max":"50"},
           {"lower": "41266", "upper": "134095", "rate":"5", "value":"50", "max":"175"},
           {"lower": "134096", "upper": "9999999999999", "rate":"4", "value":"175", "max":"1000"}
-        ]
+        ],
+        "cpp": {
+          "maxIncome": "54900",
+          "exemption": "3500",
+          "rate": "5.325"
+        },
+        "ei": {
+          "maxIncome": "50800",
+          "rate": "1.52"
+        },
+        "qpip": {
+          "maxIncome": "71500",
+          "rate": "0.548"
+        }
       }
     }
   }
