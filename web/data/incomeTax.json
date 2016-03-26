@@ -695,8 +695,7 @@
           {"upper": "80985","rate": "14.82"},
           {"upper": "131664","rate": "16.52"},
           {"upper": "150000","rate": "17.84"},
-          {"upper": "250000","rate": "21.00"},
-          {"upper": "Above","rate": "25.75"}
+          {"upper": "Above","rate": "20.30"}
         ],
         "credits": [
           {"type": "personal", "amount": "9758", "percent": "9.68"}

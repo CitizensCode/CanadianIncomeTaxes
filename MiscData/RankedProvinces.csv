@@ -1,459 +1,423 @@
 Year,Income,Province,Average Income Tax,Rank At Income
-2016,10000,Alberta,2.89,1
-2016,11000,Alberta,4.61,1
-2016,12000,Alberta,6.04,2
-2016,13000,Alberta,7.26,2
-2016,14000,Alberta,8.3,2
-2016,15000,Alberta,9.2,1
-2016,16000,Alberta,9.99,1
-2016,17000,Alberta,10.69,1
-2016,18000,Alberta,11.31,1
-2016,19000,Alberta,12.15,1
-2016,20000,Alberta,13.13,1
-2016,21000,Alberta,14.02,1
-2016,22000,Alberta,14.83,1
-2016,23000,Alberta,15.57,2
-2016,24000,Alberta,16.25,2
-2016,25000,Alberta,16.87,3
-2016,26000,Alberta,17.44,3
-2016,27000,Alberta,17.98,3
-2016,28000,Alberta,18.47,4
-2016,29000,Alberta,18.94,4
-2016,30000,Alberta,19.37,4
-2016,31000,Alberta,19.77,5
-2016,32000,Alberta,20.14,5
-2016,33000,Alberta,20.5,5
-2016,34000,Alberta,20.83,6
-2016,35000,Alberta,21.15,6
-2016,36000,Alberta,21.44,6
-2016,37000,Alberta,21.72,6
-2016,38000,Alberta,21.98,6
-2016,39000,Alberta,22.24,6
-2016,40000,Alberta,22.48,6
-2016,41000,Alberta,22.71,6
-2016,42000,Alberta,22.93,6
-2016,43000,Alberta,23.13,6
-2016,44000,Alberta,23.33,6
-2016,45000,Alberta,23.52,6
-2016,46000,Alberta,23.79,6
-2016,47000,Alberta,24.07,6
-2016,48000,Alberta,24.35,6
-2016,49000,Alberta,24.61,6
-2016,50000,Alberta,24.87,6
-2016,51000,Alberta,25.1,6
-2016,52000,Alberta,25.3,6
-2016,53000,Alberta,25.5,6
-2016,54000,Alberta,25.68,6
-2016,55000,Alberta,25.85,6
-2016,56000,Alberta,25.94,6
-2016,57000,Alberta,26.01,6
-2016,58000,Alberta,26.09,6
-2016,59000,Alberta,26.16,6
-2016,60000,Alberta,26.23,6
-2016,65000,Alberta,26.56,6
-2016,70000,Alberta,26.84,6
-2016,75000,Alberta,27.09,6
-2016,80000,Alberta,27.3,6
-2016,85000,Alberta,27.49,6
-2016,90000,Alberta,27.66,6
-2016,95000,Alberta,28.07,6
-2016,100000,Alberta,28.46,6
-2016,105000,Alberta,28.82,6
-2016,110000,Alberta,29.14,5
-2016,115000,Alberta,29.45,5
-2016,120000,Alberta,29.72,5
-2016,125000,Alberta,29.97,5
-2016,130000,Alberta,30.28,4
-2016,135000,Alberta,30.56,4
-2016,140000,Alberta,30.83,4
-2016,145000,Alberta,31.17,4
-2016,150000,Alberta,31.5,4
-2016,155000,Alberta,31.84,4
-2016,160000,Alberta,32.16,4
-2016,165000,Alberta,32.46,4
-2016,170000,Alberta,32.73,4
-2016,175000,Alberta,33.0,4
-2016,180000,Alberta,33.25,4
-2016,185000,Alberta,33.49,4
-2016,190000,Alberta,33.71,4
-2016,195000,Alberta,33.92,4
-2016,200000,Alberta,34.13,4
-2016,205000,Alberta,34.44,4
-2016,210000,Alberta,34.73,4
-2016,215000,Alberta,35.02,4
-2016,220000,Alberta,35.29,4
-2016,225000,Alberta,35.55,4
-2016,230000,Alberta,35.81,4
-2016,235000,Alberta,36.04,4
-2016,240000,Alberta,36.27,4
-2016,245000,Alberta,36.49,4
-2016,250000,Alberta,36.7,4
-2016,255000,Alberta,36.9,4
-2016,260000,Alberta,37.09,4
-2016,265000,Alberta,37.28,4
-2016,270000,Alberta,37.46,4
-2016,275000,Alberta,37.64,4
-2016,280000,Alberta,37.81,4
-2016,285000,Alberta,37.97,4
-2016,290000,Alberta,38.12,4
-2016,295000,Alberta,38.27,4
-2016,300000,Alberta,38.41,4
-2016,305000,Alberta,38.57,4
-2016,310000,Alberta,38.72,4
-2016,315000,Alberta,38.88,4
-2016,320000,Alberta,39.01,4
-2016,325000,Alberta,39.15,4
-2016,330000,Alberta,39.28,4
-2016,335000,Alberta,39.42,4
-2016,340000,Alberta,39.54,4
-2016,345000,Alberta,39.67,4
-2016,10000,British Columbia,2.89,2
-2016,11000,British Columbia,5.06,7
+2016,10000,Alberta,2.89,7
+2016,11000,Alberta,4.61,8
+2016,12000,Alberta,6.04,9
+2016,13000,Alberta,7.26,10
+2016,14000,Alberta,8.3,10
+2016,15000,Alberta,9.2,12
+2016,16000,Alberta,9.99,13
+2016,17000,Alberta,10.69,13
+2016,18000,Alberta,11.31,13
+2016,19000,Alberta,12.15,13
+2016,20000,Alberta,13.13,13
+2016,21000,Alberta,14.02,13
+2016,22000,Alberta,14.83,13
+2016,23000,Alberta,15.57,12
+2016,24000,Alberta,16.25,12
+2016,25000,Alberta,16.87,11
+2016,26000,Alberta,17.44,11
+2016,27000,Alberta,17.98,11
+2016,28000,Alberta,18.47,10
+2016,29000,Alberta,18.94,10
+2016,30000,Alberta,19.37,10
+2016,31000,Alberta,19.77,9
+2016,32000,Alberta,20.14,9
+2016,33000,Alberta,20.5,9
+2016,34000,Alberta,20.83,8
+2016,35000,Alberta,21.15,8
+2016,36000,Alberta,21.44,8
+2016,37000,Alberta,21.72,8
+2016,38000,Alberta,21.98,8
+2016,39000,Alberta,22.24,8
+2016,40000,Alberta,22.48,8
+2016,41000,Alberta,22.71,8
+2016,42000,Alberta,22.93,8
+2016,43000,Alberta,23.13,8
+2016,44000,Alberta,23.33,8
+2016,45000,Alberta,23.52,8
+2016,46000,Alberta,23.79,8
+2016,47000,Alberta,24.07,8
+2016,48000,Alberta,24.35,8
+2016,49000,Alberta,24.61,8
+2016,50000,Alberta,24.87,8
+2016,51000,Alberta,25.1,8
+2016,52000,Alberta,25.3,8
+2016,53000,Alberta,25.5,8
+2016,54000,Alberta,25.68,8
+2016,55000,Alberta,25.85,8
+2016,56000,Alberta,25.94,8
+2016,57000,Alberta,26.01,8
+2016,58000,Alberta,26.09,8
+2016,59000,Alberta,26.16,8
+2016,60000,Alberta,26.23,8
+2016,65000,Alberta,26.56,8
+2016,70000,Alberta,26.84,8
+2016,75000,Alberta,27.09,8
+2016,80000,Alberta,27.3,8
+2016,85000,Alberta,27.49,8
+2016,90000,Alberta,27.66,8
+2016,95000,Alberta,28.07,8
+2016,100000,Alberta,28.46,8
+2016,105000,Alberta,28.82,8
+2016,110000,Alberta,29.14,8
+2016,115000,Alberta,29.45,9
+2016,120000,Alberta,29.72,9
+2016,125000,Alberta,29.97,9
+2016,130000,Alberta,30.28,10
+2016,135000,Alberta,30.56,10
+2016,140000,Alberta,30.83,10
+2016,145000,Alberta,31.17,9
+2016,150000,Alberta,31.5,10
+2016,155000,Alberta,31.84,10
+2016,160000,Alberta,32.16,10
+2016,165000,Alberta,32.46,10
+2016,170000,Alberta,32.73,10
+2016,175000,Alberta,33.0,10
+2016,180000,Alberta,33.25,10
+2016,185000,Alberta,33.49,10
+2016,190000,Alberta,33.71,10
+2016,195000,Alberta,33.92,10
+2016,200000,Alberta,34.13,10
+2016,205000,Alberta,34.44,10
+2016,210000,Alberta,34.73,10
+2016,215000,Alberta,35.02,10
+2016,220000,Alberta,35.29,10
+2016,225000,Alberta,35.55,10
+2016,230000,Alberta,35.81,10
+2016,235000,Alberta,36.04,10
+2016,240000,Alberta,36.27,10
+2016,245000,Alberta,36.49,10
+2016,250000,Alberta,36.7,10
+2016,255000,Alberta,36.9,10
+2016,260000,Alberta,37.09,10
+2016,265000,Alberta,37.28,10
+2016,270000,Alberta,37.46,10
+2016,275000,Alberta,37.64,10
+2016,280000,Alberta,37.81,10
+2016,285000,Alberta,37.97,10
+2016,290000,Alberta,38.12,10
+2016,295000,Alberta,38.27,10
+2016,300000,Alberta,38.41,10
+2016,10000,British Columbia,2.89,8
+2016,11000,British Columbia,5.06,6
 2016,12000,British Columbia,6.87,7
-2016,13000,British Columbia,8.42,7
-2016,14000,British Columbia,9.74,7
-2016,15000,British Columbia,10.88,7
-2016,16000,British Columbia,11.88,7
-2016,17000,British Columbia,12.77,5
-2016,18000,British Columbia,13.55,5
-2016,19000,British Columbia,14.25,5
-2016,20000,British Columbia,14.88,5
-2016,21000,British Columbia,15.45,4
-2016,22000,British Columbia,15.97,4
-2016,23000,British Columbia,16.44,4
-2016,24000,British Columbia,16.89,4
-2016,25000,British Columbia,17.28,4
-2016,26000,British Columbia,17.65,4
-2016,27000,British Columbia,17.99,4
-2016,28000,British Columbia,18.31,3
-2016,29000,British Columbia,18.61,3
-2016,30000,British Columbia,18.89,3
-2016,31000,British Columbia,19.14,3
-2016,32000,British Columbia,19.38,3
-2016,33000,British Columbia,19.61,3
-2016,34000,British Columbia,19.83,3
-2016,35000,British Columbia,20.03,3
-2016,36000,British Columbia,20.22,3
-2016,37000,British Columbia,20.4,3
-2016,38000,British Columbia,20.56,3
-2016,39000,British Columbia,20.78,3
-2016,40000,British Columbia,21.0,3
-2016,41000,British Columbia,21.21,3
-2016,42000,British Columbia,21.41,3
-2016,43000,British Columbia,21.59,3
-2016,44000,British Columbia,21.77,3
-2016,45000,British Columbia,21.95,3
-2016,46000,British Columbia,22.2,3
-2016,47000,British Columbia,22.47,2
-2016,48000,British Columbia,22.73,2
-2016,49000,British Columbia,22.99,2
-2016,50000,British Columbia,23.23,2
-2016,51000,British Columbia,23.45,2
-2016,52000,British Columbia,23.63,2
-2016,53000,British Columbia,23.82,2
-2016,54000,British Columbia,23.99,2
-2016,55000,British Columbia,24.14,2
-2016,56000,British Columbia,24.22,2
-2016,57000,British Columbia,24.29,2
-2016,58000,British Columbia,24.36,2
-2016,59000,British Columbia,24.42,2
-2016,60000,British Columbia,24.48,2
-2016,65000,British Columbia,24.77,2
-2016,70000,British Columbia,25.01,2
-2016,75000,British Columbia,25.23,2
-2016,80000,British Columbia,25.54,2
-2016,85000,British Columbia,25.86,2
-2016,90000,British Columbia,26.19,2
-2016,95000,British Columbia,26.8,2
-2016,100000,British Columbia,27.37,2
-2016,105000,British Columbia,27.89,2
-2016,110000,British Columbia,28.43,3
-2016,115000,British Columbia,28.97,3
-2016,120000,British Columbia,29.46,4
-2016,125000,British Columbia,29.91,4
-2016,130000,British Columbia,30.32,5
-2016,135000,British Columbia,30.71,6
-2016,140000,British Columbia,31.06,6
-2016,145000,British Columbia,31.49,6
-2016,150000,British Columbia,31.9,6
-2016,155000,British Columbia,32.28,6
-2016,160000,British Columbia,32.64,6
-2016,165000,British Columbia,32.98,6
-2016,170000,British Columbia,33.29,6
-2016,175000,British Columbia,33.59,6
-2016,180000,British Columbia,33.87,6
-2016,185000,British Columbia,34.14,6
-2016,190000,British Columbia,34.39,6
-2016,195000,British Columbia,34.62,6
-2016,200000,British Columbia,34.85,6
-2016,205000,British Columbia,35.17,6
-2016,210000,British Columbia,35.46,6
-2016,215000,British Columbia,35.74,6
-2016,220000,British Columbia,36.02,6
-2016,225000,British Columbia,36.28,6
-2016,230000,British Columbia,36.53,6
-2016,235000,British Columbia,36.76,6
-2016,240000,British Columbia,36.99,6
-2016,245000,British Columbia,37.21,6
-2016,250000,British Columbia,37.42,6
-2016,255000,British Columbia,37.62,6
-2016,260000,British Columbia,37.81,6
-2016,265000,British Columbia,38.0,6
-2016,270000,British Columbia,38.18,6
-2016,275000,British Columbia,38.36,6
-2016,280000,British Columbia,38.53,6
-2016,285000,British Columbia,38.69,6
-2016,290000,British Columbia,38.84,6
-2016,295000,British Columbia,38.99,6
-2016,300000,British Columbia,39.13,6
-2016,305000,British Columbia,39.27,6
-2016,310000,British Columbia,39.41,6
-2016,315000,British Columbia,39.55,6
-2016,320000,British Columbia,39.66,6
-2016,325000,British Columbia,39.79,6
-2016,330000,British Columbia,39.91,6
-2016,335000,British Columbia,40.03,6
-2016,340000,British Columbia,40.14,6
-2016,345000,British Columbia,40.25,6
-2016,10000,Manitoba,3.83,11
-2016,11000,Manitoba,6.44,11
-2016,12000,Manitoba,8.62,11
-2016,13000,Manitoba,10.47,12
-2016,14000,Manitoba,12.05,12
-2016,15000,Manitoba,13.42,12
-2016,16000,Manitoba,14.62,12
-2016,17000,Manitoba,15.69,12
-2016,18000,Manitoba,16.63,12
-2016,19000,Manitoba,17.47,12
-2016,20000,Manitoba,18.23,12
-2016,21000,Manitoba,18.91,12
-2016,22000,Manitoba,19.54,12
-2016,23000,Manitoba,20.1,12
-2016,24000,Manitoba,20.63,13
-2016,25000,Manitoba,21.1,13
-2016,26000,Manitoba,21.55,13
-2016,27000,Manitoba,21.96,13
-2016,28000,Manitoba,22.34,13
-2016,29000,Manitoba,22.7,13
-2016,30000,Manitoba,23.03,13
-2016,31000,Manitoba,23.34,12
-2016,32000,Manitoba,23.69,12
-2016,33000,Manitoba,24.02,12
-2016,34000,Manitoba,24.33,12
-2016,35000,Manitoba,24.62,12
-2016,36000,Manitoba,24.9,12
-2016,37000,Manitoba,25.16,12
-2016,38000,Manitoba,25.4,12
-2016,39000,Manitoba,25.64,12
-2016,40000,Manitoba,25.86,12
-2016,41000,Manitoba,26.08,12
-2016,42000,Manitoba,26.28,11
-2016,43000,Manitoba,26.47,11
-2016,44000,Manitoba,26.65,11
-2016,45000,Manitoba,26.83,10
-2016,46000,Manitoba,27.09,10
-2016,47000,Manitoba,27.36,10
-2016,48000,Manitoba,27.63,10
-2016,49000,Manitoba,27.88,10
-2016,50000,Manitoba,28.13,10
-2016,51000,Manitoba,28.35,10
-2016,52000,Manitoba,28.54,10
-2016,53000,Manitoba,28.73,10
-2016,54000,Manitoba,28.9,10
-2016,55000,Manitoba,29.06,10
-2016,56000,Manitoba,29.14,10
-2016,57000,Manitoba,29.21,10
-2016,58000,Manitoba,29.28,10
-2016,59000,Manitoba,29.34,10
-2016,60000,Manitoba,29.41,10
-2016,65000,Manitoba,29.7,10
-2016,70000,Manitoba,30.16,10
-2016,75000,Manitoba,30.67,10
-2016,80000,Manitoba,31.13,10
-2016,85000,Manitoba,31.52,10
-2016,90000,Manitoba,31.88,10
-2016,95000,Manitoba,32.46,10
-2016,100000,Manitoba,33.0,10
-2016,105000,Manitoba,33.5,10
-2016,110000,Manitoba,33.94,10
-2016,115000,Manitoba,34.36,10
-2016,120000,Manitoba,34.74,11
-2016,125000,Manitoba,35.08,11
-2016,130000,Manitoba,35.4,11
-2016,135000,Manitoba,35.69,11
-2016,140000,Manitoba,35.97,11
-2016,145000,Manitoba,36.32,11
-2016,150000,Manitoba,36.66,11
-2016,155000,Manitoba,36.97,11
-2016,160000,Manitoba,37.27,11
-2016,165000,Manitoba,37.55,11
-2016,170000,Manitoba,37.8,11
-2016,175000,Manitoba,38.05,10
-2016,180000,Manitoba,38.29,10
-2016,185000,Manitoba,38.51,10
-2016,190000,Manitoba,38.71,10
-2016,195000,Manitoba,38.91,10
-2016,200000,Manitoba,39.1,10
-2016,205000,Manitoba,39.37,10
-2016,210000,Manitoba,39.63,10
-2016,215000,Manitoba,39.88,10
-2016,220000,Manitoba,40.12,10
-2016,225000,Manitoba,40.35,10
-2016,230000,Manitoba,40.57,10
-2016,235000,Manitoba,40.78,10
-2016,240000,Manitoba,40.98,10
-2016,245000,Manitoba,41.17,10
-2016,250000,Manitoba,41.36,10
-2016,255000,Manitoba,41.53,10
-2016,260000,Manitoba,41.7,10
-2016,265000,Manitoba,41.86,10
-2016,270000,Manitoba,42.03,10
-2016,275000,Manitoba,42.18,10
-2016,280000,Manitoba,42.33,10
-2016,285000,Manitoba,42.47,10
-2016,290000,Manitoba,42.61,10
-2016,295000,Manitoba,42.73,10
-2016,300000,Manitoba,42.86,10
-2016,305000,Manitoba,42.99,10
-2016,310000,Manitoba,43.1,10
-2016,315000,Manitoba,43.23,10
-2016,320000,Manitoba,43.33,10
-2016,325000,Manitoba,43.44,10
-2016,330000,Manitoba,43.54,10
-2016,335000,Manitoba,43.66,10
-2016,340000,Manitoba,43.75,10
-2016,345000,Manitoba,43.85,10
-2016,10000,New Brunswick,3.12,8
-2016,11000,New Brunswick,5.7,9
-2016,12000,New Brunswick,7.85,9
-2016,13000,New Brunswick,9.67,9
-2016,14000,New Brunswick,11.23,10
-2016,15000,New Brunswick,12.58,10
-2016,16000,New Brunswick,13.77,10
-2016,17000,New Brunswick,14.81,10
-2016,18000,New Brunswick,15.74,10
-2016,19000,New Brunswick,16.57,10
-2016,20000,New Brunswick,17.32,10
-2016,21000,New Brunswick,17.99,10
-2016,22000,New Brunswick,18.61,10
-2016,23000,New Brunswick,19.16,11
-2016,24000,New Brunswick,19.68,10
-2016,25000,New Brunswick,20.15,10
-2016,26000,New Brunswick,20.59,10
-2016,27000,New Brunswick,20.99,10
-2016,28000,New Brunswick,21.37,10
-2016,29000,New Brunswick,21.72,10
-2016,30000,New Brunswick,22.05,10
-2016,31000,New Brunswick,22.35,9
-2016,32000,New Brunswick,22.64,9
-2016,33000,New Brunswick,22.91,9
-2016,34000,New Brunswick,23.16,9
-2016,35000,New Brunswick,23.4,9
-2016,36000,New Brunswick,23.63,9
-2016,37000,New Brunswick,23.84,9
-2016,38000,New Brunswick,24.03,9
-2016,39000,New Brunswick,24.23,9
-2016,40000,New Brunswick,24.41,9
-2016,41000,New Brunswick,24.65,9
-2016,42000,New Brunswick,24.94,9
-2016,43000,New Brunswick,25.2,9
-2016,44000,New Brunswick,25.46,9
-2016,45000,New Brunswick,25.72,9
-2016,46000,New Brunswick,26.04,9
-2016,47000,New Brunswick,26.38,9
-2016,48000,New Brunswick,26.71,9
-2016,49000,New Brunswick,27.02,9
-2016,50000,New Brunswick,27.33,9
-2016,51000,New Brunswick,27.61,9
-2016,52000,New Brunswick,27.85,9
-2016,53000,New Brunswick,28.09,9
-2016,54000,New Brunswick,28.32,9
-2016,55000,New Brunswick,28.52,9
-2016,56000,New Brunswick,28.65,9
-2016,57000,New Brunswick,28.76,9
-2016,58000,New Brunswick,28.87,9
-2016,59000,New Brunswick,28.98,9
-2016,60000,New Brunswick,29.09,9
-2016,65000,New Brunswick,29.56,9
-2016,70000,New Brunswick,29.98,9
-2016,75000,New Brunswick,30.34,9
-2016,80000,New Brunswick,30.65,9
-2016,85000,New Brunswick,31.0,9
-2016,90000,New Brunswick,31.34,9
-2016,95000,New Brunswick,31.9,9
-2016,100000,New Brunswick,32.43,9
-2016,105000,New Brunswick,32.91,9
-2016,110000,New Brunswick,33.34,9
-2016,115000,New Brunswick,33.74,9
-2016,120000,New Brunswick,34.11,9
-2016,125000,New Brunswick,34.45,9
-2016,130000,New Brunswick,34.75,9
-2016,135000,New Brunswick,35.07,9
-2016,140000,New Brunswick,35.38,9
-2016,145000,New Brunswick,35.78,9
-2016,150000,New Brunswick,36.15,9
-2016,155000,New Brunswick,36.59,9
-2016,160000,New Brunswick,37.01,9
-2016,165000,New Brunswick,37.41,10
-2016,170000,New Brunswick,37.77,10
-2016,175000,New Brunswick,38.12,11
-2016,180000,New Brunswick,38.46,11
-2016,185000,New Brunswick,38.77,11
-2016,190000,New Brunswick,39.06,11
-2016,195000,New Brunswick,39.34,11
-2016,200000,New Brunswick,39.61,11
-2016,205000,New Brunswick,39.96,11
-2016,210000,New Brunswick,40.29,11
-2016,215000,New Brunswick,40.61,11
-2016,220000,New Brunswick,40.91,11
-2016,225000,New Brunswick,41.2,11
-2016,230000,New Brunswick,41.49,11
-2016,235000,New Brunswick,41.75,11
-2016,240000,New Brunswick,42.01,11
-2016,245000,New Brunswick,42.25,11
-2016,250000,New Brunswick,42.49,11
-2016,255000,New Brunswick,42.81,11
-2016,260000,New Brunswick,43.11,11
-2016,265000,New Brunswick,43.4,11
-2016,270000,New Brunswick,43.69,11
-2016,275000,New Brunswick,43.97,11
-2016,280000,New Brunswick,44.23,12
-2016,285000,New Brunswick,44.49,12
-2016,290000,New Brunswick,44.73,12
-2016,295000,New Brunswick,44.97,12
-2016,300000,New Brunswick,45.19,12
-2016,305000,New Brunswick,45.42,12
-2016,310000,New Brunswick,45.63,12
-2016,315000,New Brunswick,45.85,12
-2016,320000,New Brunswick,46.04,12
-2016,325000,New Brunswick,46.24,12
-2016,330000,New Brunswick,46.42,12
-2016,335000,New Brunswick,46.62,12
-2016,340000,New Brunswick,46.79,13
-2016,345000,New Brunswick,46.96,13
-2016,10000,Newfoundland and Labrador,3.81,10
-2016,11000,Newfoundland and Labrador,6.15,10
-2016,12000,Newfoundland and Labrador,8.09,10
-2016,13000,Newfoundland and Labrador,9.75,10
-2016,14000,Newfoundland and Labrador,11.16,9
-2016,15000,Newfoundland and Labrador,12.38,9
-2016,16000,Newfoundland and Labrador,13.45,9
-2016,17000,Newfoundland and Labrador,14.4,9
-2016,18000,Newfoundland and Labrador,15.24,9
-2016,19000,Newfoundland and Labrador,15.99,9
-2016,20000,Newfoundland and Labrador,16.67,9
-2016,21000,Newfoundland and Labrador,17.28,8
-2016,22000,Newfoundland and Labrador,17.84,8
-2016,23000,Newfoundland and Labrador,18.34,8
-2016,24000,Newfoundland and Labrador,18.82,8
-2016,25000,Newfoundland and Labrador,19.24,8
-2016,26000,Newfoundland and Labrador,19.63,8
-2016,27000,Newfoundland and Labrador,20.0,8
-2016,28000,Newfoundland and Labrador,20.34,8
-2016,29000,Newfoundland and Labrador,20.66,8
-2016,30000,Newfoundland and Labrador,20.96,8
-2016,31000,Newfoundland and Labrador,21.23,8
-2016,32000,Newfoundland and Labrador,21.49,8
+2016,13000,British Columbia,8.42,6
+2016,14000,British Columbia,9.74,6
+2016,15000,British Columbia,10.88,6
+2016,16000,British Columbia,11.88,6
+2016,17000,British Columbia,12.77,7
+2016,18000,British Columbia,13.55,8
+2016,19000,British Columbia,14.25,8
+2016,20000,British Columbia,14.88,8
+2016,21000,British Columbia,15.45,10
+2016,22000,British Columbia,15.97,10
+2016,23000,British Columbia,16.44,10
+2016,24000,British Columbia,16.89,10
+2016,25000,British Columbia,17.28,10
+2016,26000,British Columbia,17.65,10
+2016,27000,British Columbia,17.99,10
+2016,28000,British Columbia,18.31,11
+2016,29000,British Columbia,18.61,11
+2016,30000,British Columbia,18.89,11
+2016,31000,British Columbia,19.14,11
+2016,32000,British Columbia,19.38,11
+2016,33000,British Columbia,19.61,11
+2016,34000,British Columbia,19.83,11
+2016,35000,British Columbia,20.03,11
+2016,36000,British Columbia,20.22,11
+2016,37000,British Columbia,20.4,11
+2016,38000,British Columbia,20.56,11
+2016,39000,British Columbia,20.78,11
+2016,40000,British Columbia,21.0,11
+2016,41000,British Columbia,21.21,11
+2016,42000,British Columbia,21.41,11
+2016,43000,British Columbia,21.59,11
+2016,44000,British Columbia,21.77,11
+2016,45000,British Columbia,21.95,11
+2016,46000,British Columbia,22.2,11
+2016,47000,British Columbia,22.47,12
+2016,48000,British Columbia,22.73,12
+2016,49000,British Columbia,22.99,12
+2016,50000,British Columbia,23.23,12
+2016,51000,British Columbia,23.45,12
+2016,52000,British Columbia,23.63,12
+2016,53000,British Columbia,23.82,12
+2016,54000,British Columbia,23.99,12
+2016,55000,British Columbia,24.14,12
+2016,56000,British Columbia,24.22,12
+2016,57000,British Columbia,24.29,12
+2016,58000,British Columbia,24.36,12
+2016,59000,British Columbia,24.42,12
+2016,60000,British Columbia,24.48,12
+2016,65000,British Columbia,24.77,12
+2016,70000,British Columbia,25.01,12
+2016,75000,British Columbia,25.23,12
+2016,80000,British Columbia,25.54,12
+2016,85000,British Columbia,25.86,12
+2016,90000,British Columbia,26.19,12
+2016,95000,British Columbia,26.8,12
+2016,100000,British Columbia,27.37,12
+2016,105000,British Columbia,27.89,12
+2016,110000,British Columbia,28.43,11
+2016,115000,British Columbia,28.97,11
+2016,120000,British Columbia,29.46,10
+2016,125000,British Columbia,29.91,10
+2016,130000,British Columbia,30.32,9
+2016,135000,British Columbia,30.71,8
+2016,140000,British Columbia,31.06,8
+2016,145000,British Columbia,31.49,8
+2016,150000,British Columbia,31.9,8
+2016,155000,British Columbia,32.28,8
+2016,160000,British Columbia,32.64,8
+2016,165000,British Columbia,32.98,8
+2016,170000,British Columbia,33.29,8
+2016,175000,British Columbia,33.59,8
+2016,180000,British Columbia,33.87,8
+2016,185000,British Columbia,34.14,8
+2016,190000,British Columbia,34.39,8
+2016,195000,British Columbia,34.62,8
+2016,200000,British Columbia,34.85,8
+2016,205000,British Columbia,35.17,8
+2016,210000,British Columbia,35.46,8
+2016,215000,British Columbia,35.74,8
+2016,220000,British Columbia,36.02,8
+2016,225000,British Columbia,36.28,8
+2016,230000,British Columbia,36.53,8
+2016,235000,British Columbia,36.76,8
+2016,240000,British Columbia,36.99,8
+2016,245000,British Columbia,37.21,8
+2016,250000,British Columbia,37.42,8
+2016,255000,British Columbia,37.62,8
+2016,260000,British Columbia,37.81,8
+2016,265000,British Columbia,38.0,8
+2016,270000,British Columbia,38.18,8
+2016,275000,British Columbia,38.36,8
+2016,280000,British Columbia,38.53,8
+2016,285000,British Columbia,38.69,8
+2016,290000,British Columbia,38.84,8
+2016,295000,British Columbia,38.99,8
+2016,300000,British Columbia,39.13,8
+2016,10000,Manitoba,3.83,3
+2016,11000,Manitoba,6.44,3
+2016,12000,Manitoba,8.62,2
+2016,13000,Manitoba,10.47,2
+2016,14000,Manitoba,12.05,2
+2016,15000,Manitoba,13.42,2
+2016,16000,Manitoba,14.62,2
+2016,17000,Manitoba,15.69,2
+2016,18000,Manitoba,16.63,2
+2016,19000,Manitoba,17.47,2
+2016,20000,Manitoba,18.23,2
+2016,21000,Manitoba,18.91,2
+2016,22000,Manitoba,19.54,2
+2016,23000,Manitoba,20.1,2
+2016,24000,Manitoba,20.63,1
+2016,25000,Manitoba,21.1,1
+2016,26000,Manitoba,21.55,1
+2016,27000,Manitoba,21.96,1
+2016,28000,Manitoba,22.34,1
+2016,29000,Manitoba,22.7,1
+2016,30000,Manitoba,23.03,1
+2016,31000,Manitoba,23.34,2
+2016,32000,Manitoba,23.69,2
+2016,33000,Manitoba,24.02,2
+2016,34000,Manitoba,24.33,2
+2016,35000,Manitoba,24.62,2
+2016,36000,Manitoba,24.9,2
+2016,37000,Manitoba,25.16,2
+2016,38000,Manitoba,25.4,2
+2016,39000,Manitoba,25.64,2
+2016,40000,Manitoba,25.86,2
+2016,41000,Manitoba,26.08,2
+2016,42000,Manitoba,26.28,2
+2016,43000,Manitoba,26.47,3
+2016,44000,Manitoba,26.65,3
+2016,45000,Manitoba,26.83,4
+2016,46000,Manitoba,27.09,4
+2016,47000,Manitoba,27.36,4
+2016,48000,Manitoba,27.63,4
+2016,49000,Manitoba,27.88,4
+2016,50000,Manitoba,28.13,4
+2016,51000,Manitoba,28.35,4
+2016,52000,Manitoba,28.54,4
+2016,53000,Manitoba,28.73,4
+2016,54000,Manitoba,28.9,4
+2016,55000,Manitoba,29.06,4
+2016,56000,Manitoba,29.14,4
+2016,57000,Manitoba,29.21,4
+2016,58000,Manitoba,29.28,4
+2016,59000,Manitoba,29.34,4
+2016,60000,Manitoba,29.41,4
+2016,65000,Manitoba,29.7,4
+2016,70000,Manitoba,30.16,4
+2016,75000,Manitoba,30.67,4
+2016,80000,Manitoba,31.13,4
+2016,85000,Manitoba,31.52,4
+2016,90000,Manitoba,31.88,4
+2016,95000,Manitoba,32.46,4
+2016,100000,Manitoba,33.0,4
+2016,105000,Manitoba,33.5,4
+2016,110000,Manitoba,33.94,4
+2016,115000,Manitoba,34.36,4
+2016,120000,Manitoba,34.74,3
+2016,125000,Manitoba,35.08,3
+2016,130000,Manitoba,35.4,3
+2016,135000,Manitoba,35.69,3
+2016,140000,Manitoba,35.97,3
+2016,145000,Manitoba,36.32,3
+2016,150000,Manitoba,36.66,3
+2016,155000,Manitoba,36.97,3
+2016,160000,Manitoba,37.27,3
+2016,165000,Manitoba,37.55,3
+2016,170000,Manitoba,37.8,3
+2016,175000,Manitoba,38.05,3
+2016,180000,Manitoba,38.29,4
+2016,185000,Manitoba,38.51,4
+2016,190000,Manitoba,38.71,4
+2016,195000,Manitoba,38.91,4
+2016,200000,Manitoba,39.1,4
+2016,205000,Manitoba,39.37,4
+2016,210000,Manitoba,39.63,4
+2016,215000,Manitoba,39.88,4
+2016,220000,Manitoba,40.12,4
+2016,225000,Manitoba,40.35,4
+2016,230000,Manitoba,40.57,4
+2016,235000,Manitoba,40.78,4
+2016,240000,Manitoba,40.98,4
+2016,245000,Manitoba,41.17,4
+2016,250000,Manitoba,41.36,4
+2016,255000,Manitoba,41.53,4
+2016,260000,Manitoba,41.7,4
+2016,265000,Manitoba,41.86,4
+2016,270000,Manitoba,42.03,4
+2016,275000,Manitoba,42.18,4
+2016,280000,Manitoba,42.33,4
+2016,285000,Manitoba,42.47,4
+2016,290000,Manitoba,42.61,4
+2016,295000,Manitoba,42.73,4
+2016,300000,Manitoba,42.86,4
+2016,10000,New Brunswick,3.12,6
+2016,11000,New Brunswick,5.7,5
+2016,12000,New Brunswick,7.85,5
+2016,13000,New Brunswick,9.67,5
+2016,14000,New Brunswick,11.23,4
+2016,15000,New Brunswick,12.58,4
+2016,16000,New Brunswick,13.77,4
+2016,17000,New Brunswick,14.81,4
+2016,18000,New Brunswick,15.74,4
+2016,19000,New Brunswick,16.57,4
+2016,20000,New Brunswick,17.32,4
+2016,21000,New Brunswick,17.99,4
+2016,22000,New Brunswick,18.61,4
+2016,23000,New Brunswick,19.16,3
+2016,24000,New Brunswick,19.68,4
+2016,25000,New Brunswick,20.15,4
+2016,26000,New Brunswick,20.59,4
+2016,27000,New Brunswick,20.99,4
+2016,28000,New Brunswick,21.37,4
+2016,29000,New Brunswick,21.72,4
+2016,30000,New Brunswick,22.05,4
+2016,31000,New Brunswick,22.35,5
+2016,32000,New Brunswick,22.64,5
+2016,33000,New Brunswick,22.91,5
+2016,34000,New Brunswick,23.16,5
+2016,35000,New Brunswick,23.4,5
+2016,36000,New Brunswick,23.63,5
+2016,37000,New Brunswick,23.84,5
+2016,38000,New Brunswick,24.03,5
+2016,39000,New Brunswick,24.23,5
+2016,40000,New Brunswick,24.41,5
+2016,41000,New Brunswick,24.65,5
+2016,42000,New Brunswick,24.94,5
+2016,43000,New Brunswick,25.2,5
+2016,44000,New Brunswick,25.46,5
+2016,45000,New Brunswick,25.72,5
+2016,46000,New Brunswick,26.04,5
+2016,47000,New Brunswick,26.38,5
+2016,48000,New Brunswick,26.71,5
+2016,49000,New Brunswick,27.02,5
+2016,50000,New Brunswick,27.33,5
+2016,51000,New Brunswick,27.61,5
+2016,52000,New Brunswick,27.85,5
+2016,53000,New Brunswick,28.09,5
+2016,54000,New Brunswick,28.32,5
+2016,55000,New Brunswick,28.52,5
+2016,56000,New Brunswick,28.65,5
+2016,57000,New Brunswick,28.76,5
+2016,58000,New Brunswick,28.87,5
+2016,59000,New Brunswick,28.98,5
+2016,60000,New Brunswick,29.09,5
+2016,65000,New Brunswick,29.56,5
+2016,70000,New Brunswick,29.98,5
+2016,75000,New Brunswick,30.34,5
+2016,80000,New Brunswick,30.65,5
+2016,85000,New Brunswick,31.0,5
+2016,90000,New Brunswick,31.34,5
+2016,95000,New Brunswick,31.9,5
+2016,100000,New Brunswick,32.43,5
+2016,105000,New Brunswick,32.91,5
+2016,110000,New Brunswick,33.34,5
+2016,115000,New Brunswick,33.74,5
+2016,120000,New Brunswick,34.11,5
+2016,125000,New Brunswick,34.45,5
+2016,130000,New Brunswick,34.75,5
+2016,135000,New Brunswick,35.07,5
+2016,140000,New Brunswick,35.38,5
+2016,145000,New Brunswick,35.78,5
+2016,150000,New Brunswick,36.15,5
+2016,155000,New Brunswick,36.57,5
+2016,160000,New Brunswick,36.97,5
+2016,165000,New Brunswick,37.34,4
+2016,170000,New Brunswick,37.69,4
+2016,175000,New Brunswick,38.02,4
+2016,180000,New Brunswick,38.34,3
+2016,185000,New Brunswick,38.64,3
+2016,190000,New Brunswick,38.92,3
+2016,195000,New Brunswick,39.18,3
+2016,200000,New Brunswick,39.43,3
+2016,205000,New Brunswick,39.77,3
+2016,210000,New Brunswick,40.09,3
+2016,215000,New Brunswick,40.4,3
+2016,220000,New Brunswick,40.69,3
+2016,225000,New Brunswick,40.97,3
+2016,230000,New Brunswick,41.25,3
+2016,235000,New Brunswick,41.5,3
+2016,240000,New Brunswick,41.74,3
+2016,245000,New Brunswick,41.98,3
+2016,250000,New Brunswick,42.21,3
+2016,255000,New Brunswick,42.42,3
+2016,260000,New Brunswick,42.63,3
+2016,265000,New Brunswick,42.83,3
+2016,270000,New Brunswick,43.03,3
+2016,275000,New Brunswick,43.22,3
+2016,280000,New Brunswick,43.4,3
+2016,285000,New Brunswick,43.57,3
+2016,290000,New Brunswick,43.74,3
+2016,295000,New Brunswick,43.9,3
+2016,300000,New Brunswick,44.05,3
+2016,10000,Newfoundland and Labrador,3.81,4
+2016,11000,Newfoundland and Labrador,6.15,4
+2016,12000,Newfoundland and Labrador,8.09,4
+2016,13000,Newfoundland and Labrador,9.75,4
+2016,14000,Newfoundland and Labrador,11.16,5
+2016,15000,Newfoundland and Labrador,12.38,5
+2016,16000,Newfoundland and Labrador,13.45,5
+2016,17000,Newfoundland and Labrador,14.4,5
+2016,18000,Newfoundland and Labrador,15.24,5
+2016,19000,Newfoundland and Labrador,15.99,5
+2016,20000,Newfoundland and Labrador,16.67,5
+2016,21000,Newfoundland and Labrador,17.28,6
+2016,22000,Newfoundland and Labrador,17.84,6
+2016,23000,Newfoundland and Labrador,18.34,6
+2016,24000,Newfoundland and Labrador,18.82,6
+2016,25000,Newfoundland and Labrador,19.24,6
+2016,26000,Newfoundland and Labrador,19.63,6
+2016,27000,Newfoundland and Labrador,20.0,6
+2016,28000,Newfoundland and Labrador,20.34,6
+2016,29000,Newfoundland and Labrador,20.66,6
+2016,30000,Newfoundland and Labrador,20.96,6
+2016,31000,Newfoundland and Labrador,21.23,6
+2016,32000,Newfoundland and Labrador,21.49,6
 2016,33000,Newfoundland and Labrador,21.74,7
 2016,34000,Newfoundland and Labrador,21.97,7
 2016,35000,Newfoundland and Labrador,22.18,7
@@ -463,19 +427,19 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,39000,Newfoundland and Labrador,23.41,7
 2016,40000,Newfoundland and Labrador,23.68,7
 2016,41000,Newfoundland and Labrador,23.94,7
-2016,42000,Newfoundland and Labrador,24.19,8
-2016,43000,Newfoundland and Labrador,24.42,8
-2016,44000,Newfoundland and Labrador,24.65,8
-2016,45000,Newfoundland and Labrador,24.86,8
-2016,46000,Newfoundland and Labrador,25.16,8
-2016,47000,Newfoundland and Labrador,25.47,8
-2016,48000,Newfoundland and Labrador,25.76,8
-2016,49000,Newfoundland and Labrador,26.05,8
-2016,50000,Newfoundland and Labrador,26.33,8
-2016,51000,Newfoundland and Labrador,26.58,8
-2016,52000,Newfoundland and Labrador,26.8,8
-2016,53000,Newfoundland and Labrador,27.02,8
-2016,54000,Newfoundland and Labrador,27.22,7
+2016,42000,Newfoundland and Labrador,24.19,6
+2016,43000,Newfoundland and Labrador,24.42,6
+2016,44000,Newfoundland and Labrador,24.65,6
+2016,45000,Newfoundland and Labrador,24.86,6
+2016,46000,Newfoundland and Labrador,25.16,6
+2016,47000,Newfoundland and Labrador,25.47,6
+2016,48000,Newfoundland and Labrador,25.76,6
+2016,49000,Newfoundland and Labrador,26.05,6
+2016,50000,Newfoundland and Labrador,26.33,6
+2016,51000,Newfoundland and Labrador,26.58,6
+2016,52000,Newfoundland and Labrador,26.8,6
+2016,53000,Newfoundland and Labrador,27.02,6
+2016,54000,Newfoundland and Labrador,27.22,6
 2016,55000,Newfoundland and Labrador,27.4,7
 2016,56000,Newfoundland and Labrador,27.51,7
 2016,57000,Newfoundland and Labrador,27.6,7
@@ -489,15 +453,15 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,85000,Newfoundland and Labrador,29.52,7
 2016,90000,Newfoundland and Labrador,29.76,7
 2016,95000,Newfoundland and Labrador,30.23,7
-2016,100000,Newfoundland and Labrador,30.68,7
-2016,105000,Newfoundland and Labrador,31.09,8
-2016,110000,Newfoundland and Labrador,31.46,8
-2016,115000,Newfoundland and Labrador,31.8,8
-2016,120000,Newfoundland and Labrador,32.12,8
-2016,125000,Newfoundland and Labrador,32.41,8
-2016,130000,Newfoundland and Labrador,32.7,8
-2016,135000,Newfoundland and Labrador,32.98,8
-2016,140000,Newfoundland and Labrador,33.24,8
+2016,100000,Newfoundland and Labrador,30.68,6
+2016,105000,Newfoundland and Labrador,31.09,6
+2016,110000,Newfoundland and Labrador,31.46,6
+2016,115000,Newfoundland and Labrador,31.8,6
+2016,120000,Newfoundland and Labrador,32.12,6
+2016,125000,Newfoundland and Labrador,32.41,6
+2016,130000,Newfoundland and Labrador,32.7,6
+2016,135000,Newfoundland and Labrador,32.98,6
+2016,140000,Newfoundland and Labrador,33.24,6
 2016,145000,Newfoundland and Labrador,33.59,7
 2016,150000,Newfoundland and Labrador,33.91,7
 2016,155000,Newfoundland and Labrador,34.21,7
@@ -518,691 +482,628 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,230000,Newfoundland and Labrador,37.94,7
 2016,235000,Newfoundland and Labrador,38.15,7
 2016,240000,Newfoundland and Labrador,38.37,7
-2016,245000,Newfoundland and Labrador,38.57,7
+2016,245000,Newfoundland and Labrador,38.57,6
 2016,250000,Newfoundland and Labrador,38.76,7
-2016,255000,Newfoundland and Labrador,38.95,7
-2016,260000,Newfoundland and Labrador,39.13,8
-2016,265000,Newfoundland and Labrador,39.3,8
-2016,270000,Newfoundland and Labrador,39.47,8
-2016,275000,Newfoundland and Labrador,39.63,8
-2016,280000,Newfoundland and Labrador,39.79,8
-2016,285000,Newfoundland and Labrador,39.94,8
-2016,290000,Newfoundland and Labrador,40.08,8
-2016,295000,Newfoundland and Labrador,40.22,8
-2016,300000,Newfoundland and Labrador,40.35,8
-2016,305000,Newfoundland and Labrador,40.48,8
-2016,310000,Newfoundland and Labrador,40.6,8
-2016,315000,Newfoundland and Labrador,40.73,8
-2016,320000,Newfoundland and Labrador,40.84,8
-2016,325000,Newfoundland and Labrador,40.96,8
-2016,330000,Newfoundland and Labrador,41.07,8
-2016,335000,Newfoundland and Labrador,41.19,8
-2016,340000,Newfoundland and Labrador,41.28,8
-2016,345000,Newfoundland and Labrador,41.39,8
-2016,10000,Northwest Territories,2.89,3
-2016,11000,Northwest Territories,4.61,2
-2016,12000,Northwest Territories,6.04,3
-2016,13000,Northwest Territories,7.26,3
-2016,14000,Northwest Territories,8.3,3
-2016,15000,Northwest Territories,9.56,3
-2016,16000,Northwest Territories,10.7,3
-2016,17000,Northwest Territories,11.7,4
-2016,18000,Northwest Territories,12.59,3
-2016,19000,Northwest Territories,13.39,3
-2016,20000,Northwest Territories,14.11,3
-2016,21000,Northwest Territories,14.75,3
-2016,22000,Northwest Territories,15.34,3
-2016,23000,Northwest Territories,15.88,3
-2016,24000,Northwest Territories,16.38,3
-2016,25000,Northwest Territories,16.83,2
-2016,26000,Northwest Territories,17.24,2
-2016,27000,Northwest Territories,17.63,2
-2016,28000,Northwest Territories,17.99,2
-2016,29000,Northwest Territories,18.34,2
-2016,30000,Northwest Territories,18.65,2
-2016,31000,Northwest Territories,18.94,2
-2016,32000,Northwest Territories,19.21,2
-2016,33000,Northwest Territories,19.47,2
-2016,34000,Northwest Territories,19.72,2
-2016,35000,Northwest Territories,19.95,2
-2016,36000,Northwest Territories,20.16,2
-2016,37000,Northwest Territories,20.36,2
-2016,38000,Northwest Territories,20.55,2
-2016,39000,Northwest Territories,20.74,2
-2016,40000,Northwest Territories,20.91,2
-2016,41000,Northwest Territories,21.08,2
-2016,42000,Northwest Territories,21.31,2
-2016,43000,Northwest Territories,21.51,2
-2016,44000,Northwest Territories,21.72,2
-2016,45000,Northwest Territories,21.91,2
-2016,46000,Northwest Territories,22.19,2
-2016,47000,Northwest Territories,22.48,3
-2016,48000,Northwest Territories,22.75,3
-2016,49000,Northwest Territories,23.02,3
-2016,50000,Northwest Territories,23.28,3
-2016,51000,Northwest Territories,23.52,3
-2016,52000,Northwest Territories,23.72,3
-2016,53000,Northwest Territories,23.92,3
-2016,54000,Northwest Territories,24.11,3
-2016,55000,Northwest Territories,24.28,3
-2016,56000,Northwest Territories,24.37,3
-2016,57000,Northwest Territories,24.45,3
-2016,58000,Northwest Territories,24.53,3
-2016,59000,Northwest Territories,24.61,3
-2016,60000,Northwest Territories,24.68,3
-2016,65000,Northwest Territories,25.02,3
-2016,70000,Northwest Territories,25.31,3
-2016,75000,Northwest Territories,25.57,3
-2016,80000,Northwest Territories,25.79,3
-2016,85000,Northwest Territories,26.11,3
-2016,90000,Northwest Territories,26.48,3
-2016,95000,Northwest Territories,27.06,3
-2016,100000,Northwest Territories,27.62,4
-2016,105000,Northwest Territories,28.12,4
-2016,110000,Northwest Territories,28.57,4
-2016,115000,Northwest Territories,29.0,4
-2016,120000,Northwest Territories,29.38,3
-2016,125000,Northwest Territories,29.74,3
-2016,130000,Northwest Territories,30.06,3
-2016,135000,Northwest Territories,30.38,3
-2016,140000,Northwest Territories,30.72,3
-2016,145000,Northwest Territories,31.15,3
-2016,150000,Northwest Territories,31.54,5
-2016,155000,Northwest Territories,31.91,5
-2016,160000,Northwest Territories,32.26,5
-2016,165000,Northwest Territories,32.59,5
-2016,170000,Northwest Territories,32.89,5
-2016,175000,Northwest Territories,33.19,5
-2016,180000,Northwest Territories,33.46,5
-2016,185000,Northwest Territories,33.72,5
-2016,190000,Northwest Territories,33.97,5
-2016,195000,Northwest Territories,34.2,5
-2016,200000,Northwest Territories,34.42,5
-2016,205000,Northwest Territories,34.73,5
-2016,210000,Northwest Territories,35.02,5
-2016,215000,Northwest Territories,35.3,5
-2016,220000,Northwest Territories,35.57,5
-2016,225000,Northwest Territories,35.82,5
-2016,230000,Northwest Territories,36.07,5
-2016,235000,Northwest Territories,36.3,5
-2016,240000,Northwest Territories,36.52,5
-2016,245000,Northwest Territories,36.74,5
-2016,250000,Northwest Territories,36.95,5
-2016,255000,Northwest Territories,37.14,5
-2016,260000,Northwest Territories,37.33,5
-2016,265000,Northwest Territories,37.51,5
-2016,270000,Northwest Territories,37.69,5
-2016,275000,Northwest Territories,37.86,5
-2016,280000,Northwest Territories,38.03,5
-2016,285000,Northwest Territories,38.19,5
-2016,290000,Northwest Territories,38.34,5
-2016,295000,Northwest Territories,38.49,5
-2016,300000,Northwest Territories,38.63,5
-2016,305000,Northwest Territories,38.77,5
-2016,310000,Northwest Territories,38.9,5
-2016,315000,Northwest Territories,39.03,5
-2016,320000,Northwest Territories,39.15,5
-2016,325000,Northwest Territories,39.28,5
-2016,330000,Northwest Territories,39.39,5
-2016,335000,Northwest Territories,39.51,5
-2016,340000,Northwest Territories,39.62,5
-2016,345000,Northwest Territories,39.73,5
-2016,10000,Nova Scotia,4.23,12
-2016,11000,Nova Scotia,6.62,12
-2016,12000,Nova Scotia,8.62,12
-2016,13000,Nova Scotia,10.32,11
-2016,14000,Nova Scotia,11.77,11
-2016,15000,Nova Scotia,13.02,11
-2016,16000,Nova Scotia,14.12,11
-2016,17000,Nova Scotia,15.09,11
-2016,18000,Nova Scotia,15.96,11
-2016,19000,Nova Scotia,16.73,11
-2016,20000,Nova Scotia,17.42,11
-2016,21000,Nova Scotia,18.05,11
-2016,22000,Nova Scotia,18.62,11
-2016,23000,Nova Scotia,19.14,10
-2016,24000,Nova Scotia,19.62,9
-2016,25000,Nova Scotia,20.06,9
-2016,26000,Nova Scotia,20.46,9
-2016,27000,Nova Scotia,20.84,9
-2016,28000,Nova Scotia,21.19,9
-2016,29000,Nova Scotia,21.52,9
-2016,30000,Nova Scotia,21.91,9
-2016,31000,Nova Scotia,22.39,10
-2016,32000,Nova Scotia,22.83,10
-2016,33000,Nova Scotia,23.26,10
-2016,34000,Nova Scotia,23.66,10
-2016,35000,Nova Scotia,24.03,10
-2016,36000,Nova Scotia,24.39,10
-2016,37000,Nova Scotia,24.72,10
-2016,38000,Nova Scotia,25.03,10
-2016,39000,Nova Scotia,25.33,10
-2016,40000,Nova Scotia,25.62,10
-2016,41000,Nova Scotia,25.9,10
-2016,42000,Nova Scotia,26.16,10
-2016,43000,Nova Scotia,26.4,10
-2016,44000,Nova Scotia,26.63,10
-2016,45000,Nova Scotia,26.86,11
-2016,46000,Nova Scotia,27.17,11
-2016,47000,Nova Scotia,27.49,12
-2016,48000,Nova Scotia,27.79,12
-2016,49000,Nova Scotia,28.09,12
-2016,50000,Nova Scotia,28.37,12
-2016,51000,Nova Scotia,28.63,12
-2016,52000,Nova Scotia,28.86,12
-2016,53000,Nova Scotia,29.08,12
-2016,54000,Nova Scotia,29.29,12
-2016,55000,Nova Scotia,29.48,12
-2016,56000,Nova Scotia,29.59,12
-2016,57000,Nova Scotia,29.69,12
-2016,58000,Nova Scotia,29.79,12
-2016,59000,Nova Scotia,29.89,12
-2016,60000,Nova Scotia,30.0,12
-2016,65000,Nova Scotia,30.55,12
-2016,70000,Nova Scotia,31.03,12
-2016,75000,Nova Scotia,31.44,12
-2016,80000,Nova Scotia,31.8,12
-2016,85000,Nova Scotia,32.11,12
-2016,90000,Nova Scotia,32.4,12
-2016,95000,Nova Scotia,32.92,12
-2016,100000,Nova Scotia,33.45,12
-2016,105000,Nova Scotia,33.93,12
-2016,110000,Nova Scotia,34.36,12
-2016,115000,Nova Scotia,34.76,12
-2016,120000,Nova Scotia,35.13,12
-2016,125000,Nova Scotia,35.46,12
-2016,130000,Nova Scotia,35.77,12
-2016,135000,Nova Scotia,36.05,12
-2016,140000,Nova Scotia,36.32,12
-2016,145000,Nova Scotia,36.66,12
-2016,150000,Nova Scotia,36.99,12
-2016,155000,Nova Scotia,37.41,12
-2016,160000,Nova Scotia,37.8,12
-2016,165000,Nova Scotia,38.18,12
-2016,170000,Nova Scotia,38.52,12
-2016,175000,Nova Scotia,38.85,12
-2016,180000,Nova Scotia,39.16,12
-2016,185000,Nova Scotia,39.46,12
-2016,190000,Nova Scotia,39.73,12
-2016,195000,Nova Scotia,39.99,12
-2016,200000,Nova Scotia,40.25,12
-2016,205000,Nova Scotia,40.58,12
-2016,210000,Nova Scotia,40.89,12
-2016,215000,Nova Scotia,41.2,12
-2016,220000,Nova Scotia,41.49,12
-2016,225000,Nova Scotia,41.77,12
-2016,230000,Nova Scotia,42.04,12
-2016,235000,Nova Scotia,42.29,12
-2016,240000,Nova Scotia,42.54,12
-2016,245000,Nova Scotia,42.77,12
-2016,250000,Nova Scotia,43.0,12
-2016,255000,Nova Scotia,43.21,12
-2016,260000,Nova Scotia,43.41,12
-2016,265000,Nova Scotia,43.61,12
-2016,270000,Nova Scotia,43.81,12
-2016,275000,Nova Scotia,44.0,12
-2016,280000,Nova Scotia,44.18,11
-2016,285000,Nova Scotia,44.35,11
-2016,290000,Nova Scotia,44.52,11
-2016,295000,Nova Scotia,44.67,11
-2016,300000,Nova Scotia,44.83,11
-2016,305000,Nova Scotia,44.98,11
-2016,310000,Nova Scotia,45.12,11
-2016,315000,Nova Scotia,45.27,11
-2016,320000,Nova Scotia,45.4,11
-2016,325000,Nova Scotia,45.53,11
-2016,330000,Nova Scotia,45.66,11
-2016,335000,Nova Scotia,45.79,11
-2016,340000,Nova Scotia,45.9,11
-2016,345000,Nova Scotia,46.03,11
-2016,10000,Nunavut,2.89,4
-2016,11000,Nunavut,4.61,3
-2016,12000,Nunavut,6.04,4
-2016,13000,Nunavut,7.28,5
-2016,14000,Nunavut,8.6,5
-2016,15000,Nunavut,9.75,5
-2016,16000,Nunavut,10.75,4
-2016,17000,Nunavut,11.64,3
-2016,18000,Nunavut,12.43,2
-2016,19000,Nunavut,13.13,2
-2016,20000,Nunavut,13.77,2
-2016,21000,Nunavut,14.34,2
-2016,22000,Nunavut,14.87,2
-2016,23000,Nunavut,15.34,1
-2016,24000,Nunavut,15.78,1
-2016,25000,Nunavut,16.18,1
-2016,26000,Nunavut,16.55,1
-2016,27000,Nunavut,16.89,1
-2016,28000,Nunavut,17.21,1
-2016,29000,Nunavut,17.51,1
-2016,30000,Nunavut,17.79,1
-2016,31000,Nunavut,18.05,1
-2016,32000,Nunavut,18.29,1
-2016,33000,Nunavut,18.52,1
-2016,34000,Nunavut,18.74,1
-2016,35000,Nunavut,18.94,1
-2016,36000,Nunavut,19.13,1
-2016,37000,Nunavut,19.31,1
-2016,38000,Nunavut,19.48,1
-2016,39000,Nunavut,19.64,1
-2016,40000,Nunavut,19.8,1
-2016,41000,Nunavut,19.95,1
-2016,42000,Nunavut,20.09,1
-2016,43000,Nunavut,20.22,1
-2016,44000,Nunavut,20.4,1
-2016,45000,Nunavut,20.59,1
-2016,46000,Nunavut,20.86,1
-2016,47000,Nunavut,21.14,1
-2016,48000,Nunavut,21.41,1
-2016,49000,Nunavut,21.68,1
-2016,50000,Nunavut,21.93,1
-2016,51000,Nunavut,22.16,1
-2016,52000,Nunavut,22.36,1
-2016,53000,Nunavut,22.56,1
-2016,54000,Nunavut,22.74,1
-2016,55000,Nunavut,22.9,1
-2016,56000,Nunavut,22.99,1
-2016,57000,Nunavut,23.07,1
-2016,58000,Nunavut,23.14,1
-2016,59000,Nunavut,23.22,1
-2016,60000,Nunavut,23.29,1
-2016,65000,Nunavut,23.61,1
-2016,70000,Nunavut,23.89,1
-2016,75000,Nunavut,24.13,1
-2016,80000,Nunavut,24.34,1
-2016,85000,Nunavut,24.53,1
-2016,90000,Nunavut,24.78,1
-2016,95000,Nunavut,25.28,1
-2016,100000,Nunavut,25.77,1
-2016,105000,Nunavut,26.21,1
-2016,110000,Nunavut,26.6,1
-2016,115000,Nunavut,26.97,1
-2016,120000,Nunavut,27.31,1
-2016,125000,Nunavut,27.62,1
-2016,130000,Nunavut,27.9,1
-2016,135000,Nunavut,28.16,1
-2016,140000,Nunavut,28.4,1
-2016,145000,Nunavut,28.81,1
-2016,150000,Nunavut,29.2,1
-2016,155000,Nunavut,29.56,1
-2016,160000,Nunavut,29.9,1
-2016,165000,Nunavut,30.23,1
-2016,170000,Nunavut,30.52,1
-2016,175000,Nunavut,30.81,1
-2016,180000,Nunavut,31.08,1
-2016,185000,Nunavut,31.34,1
-2016,190000,Nunavut,31.58,1
-2016,195000,Nunavut,31.8,1
-2016,200000,Nunavut,32.03,1
-2016,205000,Nunavut,32.33,1
-2016,210000,Nunavut,32.61,1
-2016,215000,Nunavut,32.89,1
-2016,220000,Nunavut,33.16,1
-2016,225000,Nunavut,33.41,1
-2016,230000,Nunavut,33.65,1
-2016,235000,Nunavut,33.88,1
-2016,240000,Nunavut,34.1,1
-2016,245000,Nunavut,34.31,1
-2016,250000,Nunavut,34.52,1
-2016,255000,Nunavut,34.72,1
-2016,260000,Nunavut,34.9,1
-2016,265000,Nunavut,35.08,1
-2016,270000,Nunavut,35.26,1
-2016,275000,Nunavut,35.43,1
-2016,280000,Nunavut,35.59,1
-2016,285000,Nunavut,35.75,1
-2016,290000,Nunavut,35.9,1
-2016,295000,Nunavut,36.04,1
-2016,300000,Nunavut,36.18,1
-2016,305000,Nunavut,36.32,1
-2016,310000,Nunavut,36.45,1
-2016,315000,Nunavut,36.58,1
-2016,320000,Nunavut,36.7,1
-2016,325000,Nunavut,36.82,1
-2016,330000,Nunavut,36.93,1
-2016,335000,Nunavut,37.06,1
-2016,340000,Nunavut,37.16,1
-2016,345000,Nunavut,37.27,1
-2016,10000,Ontario,2.89,5
-2016,11000,Ontario,5.06,8
-2016,12000,Ontario,6.88,8
-2016,13000,Ontario,8.42,8
-2016,14000,Ontario,9.74,8
-2016,15000,Ontario,10.88,8
-2016,16000,Ontario,11.88,8
-2016,17000,Ontario,12.77,6
-2016,18000,Ontario,13.55,6
-2016,19000,Ontario,14.25,6
-2016,20000,Ontario,14.88,6
+2016,255000,Newfoundland and Labrador,38.95,6
+2016,260000,Newfoundland and Labrador,39.13,6
+2016,265000,Newfoundland and Labrador,39.3,6
+2016,270000,Newfoundland and Labrador,39.47,6
+2016,275000,Newfoundland and Labrador,39.63,6
+2016,280000,Newfoundland and Labrador,39.79,6
+2016,285000,Newfoundland and Labrador,39.94,6
+2016,290000,Newfoundland and Labrador,40.08,6
+2016,295000,Newfoundland and Labrador,40.22,6
+2016,300000,Newfoundland and Labrador,40.35,6
+2016,10000,Northwest Territories,2.89,9
+2016,11000,Northwest Territories,4.61,9
+2016,12000,Northwest Territories,6.04,10
+2016,13000,Northwest Territories,7.26,11
+2016,14000,Northwest Territories,8.3,11
+2016,15000,Northwest Territories,9.56,11
+2016,16000,Northwest Territories,10.7,11
+2016,17000,Northwest Territories,11.7,10
+2016,18000,Northwest Territories,12.59,11
+2016,19000,Northwest Territories,13.39,11
+2016,20000,Northwest Territories,14.11,11
+2016,21000,Northwest Territories,14.75,11
+2016,22000,Northwest Territories,15.34,11
+2016,23000,Northwest Territories,15.88,11
+2016,24000,Northwest Territories,16.38,11
+2016,25000,Northwest Territories,16.83,12
+2016,26000,Northwest Territories,17.24,12
+2016,27000,Northwest Territories,17.63,12
+2016,28000,Northwest Territories,17.99,12
+2016,29000,Northwest Territories,18.34,12
+2016,30000,Northwest Territories,18.65,12
+2016,31000,Northwest Territories,18.94,12
+2016,32000,Northwest Territories,19.21,12
+2016,33000,Northwest Territories,19.47,12
+2016,34000,Northwest Territories,19.72,12
+2016,35000,Northwest Territories,19.95,12
+2016,36000,Northwest Territories,20.16,12
+2016,37000,Northwest Territories,20.36,12
+2016,38000,Northwest Territories,20.55,12
+2016,39000,Northwest Territories,20.74,12
+2016,40000,Northwest Territories,20.91,12
+2016,41000,Northwest Territories,21.08,12
+2016,42000,Northwest Territories,21.31,12
+2016,43000,Northwest Territories,21.51,12
+2016,44000,Northwest Territories,21.72,12
+2016,45000,Northwest Territories,21.91,12
+2016,46000,Northwest Territories,22.19,12
+2016,47000,Northwest Territories,22.48,11
+2016,48000,Northwest Territories,22.75,11
+2016,49000,Northwest Territories,23.02,11
+2016,50000,Northwest Territories,23.28,11
+2016,51000,Northwest Territories,23.52,11
+2016,52000,Northwest Territories,23.72,11
+2016,53000,Northwest Territories,23.92,11
+2016,54000,Northwest Territories,24.11,11
+2016,55000,Northwest Territories,24.28,11
+2016,56000,Northwest Territories,24.37,11
+2016,57000,Northwest Territories,24.45,11
+2016,58000,Northwest Territories,24.53,11
+2016,59000,Northwest Territories,24.61,11
+2016,60000,Northwest Territories,24.68,11
+2016,65000,Northwest Territories,25.02,11
+2016,70000,Northwest Territories,25.31,11
+2016,75000,Northwest Territories,25.57,11
+2016,80000,Northwest Territories,25.79,11
+2016,85000,Northwest Territories,26.11,11
+2016,90000,Northwest Territories,26.48,11
+2016,95000,Northwest Territories,27.06,11
+2016,100000,Northwest Territories,27.62,10
+2016,105000,Northwest Territories,28.12,10
+2016,110000,Northwest Territories,28.57,10
+2016,115000,Northwest Territories,29.0,10
+2016,120000,Northwest Territories,29.38,11
+2016,125000,Northwest Territories,29.74,11
+2016,130000,Northwest Territories,30.06,11
+2016,135000,Northwest Territories,30.38,11
+2016,140000,Northwest Territories,30.72,11
+2016,145000,Northwest Territories,31.15,11
+2016,150000,Northwest Territories,31.54,9
+2016,155000,Northwest Territories,31.91,9
+2016,160000,Northwest Territories,32.26,9
+2016,165000,Northwest Territories,32.59,9
+2016,170000,Northwest Territories,32.89,9
+2016,175000,Northwest Territories,33.19,9
+2016,180000,Northwest Territories,33.46,9
+2016,185000,Northwest Territories,33.72,9
+2016,190000,Northwest Territories,33.97,9
+2016,195000,Northwest Territories,34.2,9
+2016,200000,Northwest Territories,34.42,9
+2016,205000,Northwest Territories,34.73,9
+2016,210000,Northwest Territories,35.02,9
+2016,215000,Northwest Territories,35.3,9
+2016,220000,Northwest Territories,35.57,9
+2016,225000,Northwest Territories,35.82,9
+2016,230000,Northwest Territories,36.07,9
+2016,235000,Northwest Territories,36.3,9
+2016,240000,Northwest Territories,36.52,9
+2016,245000,Northwest Territories,36.74,9
+2016,250000,Northwest Territories,36.95,9
+2016,255000,Northwest Territories,37.14,9
+2016,260000,Northwest Territories,37.33,9
+2016,265000,Northwest Territories,37.51,9
+2016,270000,Northwest Territories,37.69,9
+2016,275000,Northwest Territories,37.86,9
+2016,280000,Northwest Territories,38.03,9
+2016,285000,Northwest Territories,38.19,9
+2016,290000,Northwest Territories,38.34,9
+2016,295000,Northwest Territories,38.49,9
+2016,300000,Northwest Territories,38.63,9
+2016,10000,Nova Scotia,4.23,2
+2016,11000,Nova Scotia,6.62,2
+2016,12000,Nova Scotia,8.62,3
+2016,13000,Nova Scotia,10.32,3
+2016,14000,Nova Scotia,11.77,3
+2016,15000,Nova Scotia,13.02,3
+2016,16000,Nova Scotia,14.12,3
+2016,17000,Nova Scotia,15.09,3
+2016,18000,Nova Scotia,15.96,3
+2016,19000,Nova Scotia,16.73,3
+2016,20000,Nova Scotia,17.42,3
+2016,21000,Nova Scotia,18.05,3
+2016,22000,Nova Scotia,18.62,3
+2016,23000,Nova Scotia,19.14,4
+2016,24000,Nova Scotia,19.62,5
+2016,25000,Nova Scotia,20.06,5
+2016,26000,Nova Scotia,20.46,5
+2016,27000,Nova Scotia,20.84,5
+2016,28000,Nova Scotia,21.19,5
+2016,29000,Nova Scotia,21.52,5
+2016,30000,Nova Scotia,21.91,5
+2016,31000,Nova Scotia,22.39,4
+2016,32000,Nova Scotia,22.83,4
+2016,33000,Nova Scotia,23.26,4
+2016,34000,Nova Scotia,23.66,4
+2016,35000,Nova Scotia,24.03,4
+2016,36000,Nova Scotia,24.39,4
+2016,37000,Nova Scotia,24.72,4
+2016,38000,Nova Scotia,25.03,4
+2016,39000,Nova Scotia,25.33,4
+2016,40000,Nova Scotia,25.62,4
+2016,41000,Nova Scotia,25.9,4
+2016,42000,Nova Scotia,26.16,4
+2016,43000,Nova Scotia,26.4,4
+2016,44000,Nova Scotia,26.63,4
+2016,45000,Nova Scotia,26.86,3
+2016,46000,Nova Scotia,27.17,3
+2016,47000,Nova Scotia,27.49,2
+2016,48000,Nova Scotia,27.79,2
+2016,49000,Nova Scotia,28.09,2
+2016,50000,Nova Scotia,28.37,2
+2016,51000,Nova Scotia,28.63,2
+2016,52000,Nova Scotia,28.86,2
+2016,53000,Nova Scotia,29.08,2
+2016,54000,Nova Scotia,29.29,2
+2016,55000,Nova Scotia,29.48,2
+2016,56000,Nova Scotia,29.59,2
+2016,57000,Nova Scotia,29.69,2
+2016,58000,Nova Scotia,29.79,2
+2016,59000,Nova Scotia,29.89,2
+2016,60000,Nova Scotia,30.0,2
+2016,65000,Nova Scotia,30.55,2
+2016,70000,Nova Scotia,31.03,2
+2016,75000,Nova Scotia,31.44,2
+2016,80000,Nova Scotia,31.8,2
+2016,85000,Nova Scotia,32.11,2
+2016,90000,Nova Scotia,32.4,2
+2016,95000,Nova Scotia,32.92,2
+2016,100000,Nova Scotia,33.45,2
+2016,105000,Nova Scotia,33.93,2
+2016,110000,Nova Scotia,34.36,2
+2016,115000,Nova Scotia,34.76,2
+2016,120000,Nova Scotia,35.13,2
+2016,125000,Nova Scotia,35.46,2
+2016,130000,Nova Scotia,35.77,2
+2016,135000,Nova Scotia,36.05,2
+2016,140000,Nova Scotia,36.32,2
+2016,145000,Nova Scotia,36.66,2
+2016,150000,Nova Scotia,36.99,2
+2016,155000,Nova Scotia,37.41,2
+2016,160000,Nova Scotia,37.8,2
+2016,165000,Nova Scotia,38.18,2
+2016,170000,Nova Scotia,38.52,2
+2016,175000,Nova Scotia,38.85,2
+2016,180000,Nova Scotia,39.16,2
+2016,185000,Nova Scotia,39.46,2
+2016,190000,Nova Scotia,39.73,2
+2016,195000,Nova Scotia,39.99,2
+2016,200000,Nova Scotia,40.25,2
+2016,205000,Nova Scotia,40.58,2
+2016,210000,Nova Scotia,40.89,2
+2016,215000,Nova Scotia,41.2,2
+2016,220000,Nova Scotia,41.49,2
+2016,225000,Nova Scotia,41.77,2
+2016,230000,Nova Scotia,42.04,2
+2016,235000,Nova Scotia,42.29,2
+2016,240000,Nova Scotia,42.54,2
+2016,245000,Nova Scotia,42.77,2
+2016,250000,Nova Scotia,43.0,2
+2016,255000,Nova Scotia,43.21,2
+2016,260000,Nova Scotia,43.41,2
+2016,265000,Nova Scotia,43.61,2
+2016,270000,Nova Scotia,43.81,2
+2016,275000,Nova Scotia,44.0,2
+2016,280000,Nova Scotia,44.18,2
+2016,285000,Nova Scotia,44.35,2
+2016,290000,Nova Scotia,44.52,2
+2016,295000,Nova Scotia,44.67,2
+2016,300000,Nova Scotia,44.83,2
+2016,10000,Nunavut,2.89,10
+2016,11000,Nunavut,4.61,10
+2016,12000,Nunavut,6.04,11
+2016,13000,Nunavut,7.28,9
+2016,14000,Nunavut,8.6,9
+2016,15000,Nunavut,9.75,9
+2016,16000,Nunavut,10.75,10
+2016,17000,Nunavut,11.64,11
+2016,18000,Nunavut,12.43,12
+2016,19000,Nunavut,13.13,12
+2016,20000,Nunavut,13.77,12
+2016,21000,Nunavut,14.34,12
+2016,22000,Nunavut,14.87,12
+2016,23000,Nunavut,15.34,13
+2016,24000,Nunavut,15.78,13
+2016,25000,Nunavut,16.18,13
+2016,26000,Nunavut,16.55,13
+2016,27000,Nunavut,16.89,13
+2016,28000,Nunavut,17.21,13
+2016,29000,Nunavut,17.51,13
+2016,30000,Nunavut,17.79,13
+2016,31000,Nunavut,18.05,13
+2016,32000,Nunavut,18.29,13
+2016,33000,Nunavut,18.52,13
+2016,34000,Nunavut,18.74,13
+2016,35000,Nunavut,18.94,13
+2016,36000,Nunavut,19.13,13
+2016,37000,Nunavut,19.31,13
+2016,38000,Nunavut,19.48,13
+2016,39000,Nunavut,19.64,13
+2016,40000,Nunavut,19.8,13
+2016,41000,Nunavut,19.95,13
+2016,42000,Nunavut,20.09,13
+2016,43000,Nunavut,20.22,13
+2016,44000,Nunavut,20.4,13
+2016,45000,Nunavut,20.59,13
+2016,46000,Nunavut,20.86,13
+2016,47000,Nunavut,21.14,13
+2016,48000,Nunavut,21.41,13
+2016,49000,Nunavut,21.68,13
+2016,50000,Nunavut,21.93,13
+2016,51000,Nunavut,22.16,13
+2016,52000,Nunavut,22.36,13
+2016,53000,Nunavut,22.56,13
+2016,54000,Nunavut,22.74,13
+2016,55000,Nunavut,22.9,13
+2016,56000,Nunavut,22.99,13
+2016,57000,Nunavut,23.07,13
+2016,58000,Nunavut,23.14,13
+2016,59000,Nunavut,23.22,13
+2016,60000,Nunavut,23.29,13
+2016,65000,Nunavut,23.61,13
+2016,70000,Nunavut,23.89,13
+2016,75000,Nunavut,24.13,13
+2016,80000,Nunavut,24.34,13
+2016,85000,Nunavut,24.53,13
+2016,90000,Nunavut,24.78,13
+2016,95000,Nunavut,25.28,13
+2016,100000,Nunavut,25.77,13
+2016,105000,Nunavut,26.21,13
+2016,110000,Nunavut,26.6,13
+2016,115000,Nunavut,26.97,13
+2016,120000,Nunavut,27.31,13
+2016,125000,Nunavut,27.62,13
+2016,130000,Nunavut,27.9,13
+2016,135000,Nunavut,28.16,13
+2016,140000,Nunavut,28.4,13
+2016,145000,Nunavut,28.81,13
+2016,150000,Nunavut,29.2,13
+2016,155000,Nunavut,29.56,13
+2016,160000,Nunavut,29.9,13
+2016,165000,Nunavut,30.23,13
+2016,170000,Nunavut,30.52,13
+2016,175000,Nunavut,30.81,13
+2016,180000,Nunavut,31.08,13
+2016,185000,Nunavut,31.34,13
+2016,190000,Nunavut,31.58,13
+2016,195000,Nunavut,31.8,13
+2016,200000,Nunavut,32.03,13
+2016,205000,Nunavut,32.33,13
+2016,210000,Nunavut,32.61,13
+2016,215000,Nunavut,32.89,13
+2016,220000,Nunavut,33.16,13
+2016,225000,Nunavut,33.41,13
+2016,230000,Nunavut,33.65,13
+2016,235000,Nunavut,33.88,13
+2016,240000,Nunavut,34.1,13
+2016,245000,Nunavut,34.31,13
+2016,250000,Nunavut,34.52,13
+2016,255000,Nunavut,34.72,13
+2016,260000,Nunavut,34.9,13
+2016,265000,Nunavut,35.08,13
+2016,270000,Nunavut,35.26,13
+2016,275000,Nunavut,35.43,13
+2016,280000,Nunavut,35.59,13
+2016,285000,Nunavut,35.75,13
+2016,290000,Nunavut,35.9,13
+2016,295000,Nunavut,36.04,13
+2016,300000,Nunavut,36.18,13
+2016,10000,Ontario,2.89,11
+2016,11000,Ontario,5.06,7
+2016,12000,Ontario,6.88,6
+2016,13000,Ontario,8.42,7
+2016,14000,Ontario,9.74,7
+2016,15000,Ontario,10.88,7
+2016,16000,Ontario,11.88,7
+2016,17000,Ontario,12.77,8
+2016,18000,Ontario,13.55,9
+2016,19000,Ontario,14.25,9
+2016,20000,Ontario,14.88,9
 2016,21000,Ontario,15.74,7
 2016,22000,Ontario,16.52,7
 2016,23000,Ontario,17.22,7
 2016,24000,Ontario,17.88,7
 2016,25000,Ontario,18.48,7
-2016,26000,Ontario,18.8,6
-2016,27000,Ontario,19.1,6
-2016,28000,Ontario,19.38,6
-2016,29000,Ontario,19.64,6
-2016,30000,Ontario,19.88,6
-2016,31000,Ontario,20.11,6
-2016,32000,Ontario,20.32,6
-2016,33000,Ontario,20.52,6
-2016,34000,Ontario,20.71,5
-2016,35000,Ontario,20.88,5
-2016,36000,Ontario,21.05,5
-2016,37000,Ontario,21.37,5
-2016,38000,Ontario,21.66,5
-2016,39000,Ontario,21.88,5
-2016,40000,Ontario,22.0,5
-2016,41000,Ontario,22.12,5
-2016,42000,Ontario,22.28,5
-2016,43000,Ontario,22.48,5
-2016,44000,Ontario,22.67,5
-2016,45000,Ontario,22.86,5
-2016,46000,Ontario,23.13,5
-2016,47000,Ontario,23.41,5
-2016,48000,Ontario,23.68,5
-2016,49000,Ontario,24.25,5
-2016,50000,Ontario,24.49,5
-2016,51000,Ontario,24.72,5
-2016,52000,Ontario,24.91,5
-2016,53000,Ontario,25.1,5
-2016,54000,Ontario,25.27,5
-2016,55000,Ontario,25.43,5
-2016,56000,Ontario,25.51,5
-2016,57000,Ontario,25.58,5
-2016,58000,Ontario,25.65,5
-2016,59000,Ontario,25.71,5
-2016,60000,Ontario,25.78,5
-2016,65000,Ontario,26.08,5
-2016,70000,Ontario,26.33,5
-2016,75000,Ontario,26.76,5
-2016,80000,Ontario,26.94,5
-2016,85000,Ontario,27.14,5
-2016,90000,Ontario,27.39,5
-2016,95000,Ontario,27.88,5
-2016,100000,Ontario,28.34,5
-2016,105000,Ontario,28.76,5
-2016,110000,Ontario,29.14,6
-2016,115000,Ontario,29.49,6
-2016,120000,Ontario,29.81,6
-2016,125000,Ontario,30.11,6
-2016,130000,Ontario,30.37,6
-2016,135000,Ontario,30.62,5
-2016,140000,Ontario,30.86,5
-2016,145000,Ontario,31.17,5
-2016,150000,Ontario,31.47,3
-2016,155000,Ontario,31.78,3
-2016,160000,Ontario,32.08,3
-2016,165000,Ontario,32.35,3
-2016,170000,Ontario,32.61,3
-2016,175000,Ontario,32.86,3
-2016,180000,Ontario,33.09,3
-2016,185000,Ontario,33.31,3
-2016,190000,Ontario,33.51,3
-2016,195000,Ontario,33.71,3
-2016,200000,Ontario,33.9,3
-2016,205000,Ontario,34.25,3
-2016,210000,Ontario,34.5,3
-2016,215000,Ontario,34.75,3
-2016,220000,Ontario,34.98,3
-2016,225000,Ontario,35.23,3
-2016,230000,Ontario,35.48,3
-2016,235000,Ontario,35.7,3
-2016,240000,Ontario,35.92,3
-2016,245000,Ontario,36.12,3
-2016,250000,Ontario,36.33,3
-2016,255000,Ontario,36.52,3
-2016,260000,Ontario,36.7,3
-2016,265000,Ontario,36.88,3
-2016,270000,Ontario,37.06,3
-2016,275000,Ontario,37.22,3
-2016,280000,Ontario,37.38,3
-2016,285000,Ontario,37.54,3
-2016,290000,Ontario,37.69,3
-2016,295000,Ontario,37.83,3
-2016,300000,Ontario,37.96,3
-2016,305000,Ontario,38.1,3
-2016,310000,Ontario,38.23,3
-2016,315000,Ontario,38.36,3
-2016,320000,Ontario,38.47,3
-2016,325000,Ontario,38.6,3
-2016,330000,Ontario,38.71,3
-2016,335000,Ontario,38.83,3
-2016,340000,Ontario,38.93,3
-2016,345000,Ontario,39.03,3
-2016,10000,Prince Edward Island,5.14,13
-2016,11000,Prince Edward Island,7.54,13
-2016,12000,Prince Edward Island,9.55,13
-2016,13000,Prince Edward Island,11.25,13
-2016,14000,Prince Edward Island,12.7,13
-2016,15000,Prince Edward Island,13.96,13
-2016,16000,Prince Edward Island,15.07,13
-2016,17000,Prince Edward Island,16.05,13
-2016,18000,Prince Edward Island,16.91,13
-2016,19000,Prince Edward Island,17.68,13
-2016,20000,Prince Edward Island,18.38,13
-2016,21000,Prince Edward Island,19.01,13
-2016,22000,Prince Edward Island,19.59,13
-2016,23000,Prince Edward Island,20.11,13
-2016,24000,Prince Edward Island,20.59,12
-2016,25000,Prince Edward Island,21.03,12
-2016,26000,Prince Edward Island,21.43,12
-2016,27000,Prince Edward Island,21.81,12
-2016,28000,Prince Edward Island,22.16,12
-2016,29000,Prince Edward Island,22.5,11
-2016,30000,Prince Edward Island,22.8,11
-2016,31000,Prince Edward Island,23.08,11
-2016,32000,Prince Edward Island,23.35,11
-2016,33000,Prince Edward Island,23.72,11
-2016,34000,Prince Edward Island,24.08,11
-2016,35000,Prince Edward Island,24.41,11
-2016,36000,Prince Edward Island,24.72,11
-2016,37000,Prince Edward Island,25.01,11
-2016,38000,Prince Edward Island,25.29,11
-2016,39000,Prince Edward Island,25.55,11
-2016,40000,Prince Edward Island,25.8,11
-2016,41000,Prince Edward Island,26.05,11
-2016,42000,Prince Edward Island,26.28,12
-2016,43000,Prince Edward Island,26.49,12
-2016,44000,Prince Edward Island,26.7,12
-2016,45000,Prince Edward Island,26.9,12
-2016,46000,Prince Edward Island,27.18,12
-2016,47000,Prince Edward Island,27.47,11
-2016,48000,Prince Edward Island,27.75,11
-2016,49000,Prince Edward Island,28.03,11
-2016,50000,Prince Edward Island,28.29,11
-2016,51000,Prince Edward Island,28.53,11
-2016,52000,Prince Edward Island,28.74,11
-2016,53000,Prince Edward Island,28.94,11
-2016,54000,Prince Edward Island,29.13,11
-2016,55000,Prince Edward Island,29.3,11
-2016,56000,Prince Edward Island,29.4,11
-2016,57000,Prince Edward Island,29.48,11
-2016,58000,Prince Edward Island,29.56,11
-2016,59000,Prince Edward Island,29.64,11
-2016,60000,Prince Edward Island,29.72,11
-2016,65000,Prince Edward Island,30.12,11
-2016,70000,Prince Edward Island,30.62,11
-2016,75000,Prince Edward Island,31.06,11
-2016,80000,Prince Edward Island,31.45,11
-2016,85000,Prince Edward Island,31.78,11
-2016,90000,Prince Edward Island,32.09,11
-2016,95000,Prince Edward Island,32.62,11
-2016,100000,Prince Edward Island,33.12,11
-2016,105000,Prince Edward Island,33.58,11
-2016,110000,Prince Edward Island,33.98,11
-2016,115000,Prince Edward Island,34.37,11
-2016,120000,Prince Edward Island,34.72,10
-2016,125000,Prince Edward Island,35.04,10
-2016,130000,Prince Edward Island,35.33,10
-2016,135000,Prince Edward Island,35.6,10
-2016,140000,Prince Edward Island,35.85,10
-2016,145000,Prince Edward Island,36.19,10
-2016,150000,Prince Edward Island,36.51,10
-2016,155000,Prince Edward Island,36.8,10
-2016,160000,Prince Edward Island,37.08,10
-2016,165000,Prince Edward Island,37.34,9
-2016,170000,Prince Edward Island,37.58,9
-2016,175000,Prince Edward Island,37.82,9
-2016,180000,Prince Edward Island,38.04,9
-2016,185000,Prince Edward Island,38.25,9
-2016,190000,Prince Edward Island,38.44,9
-2016,195000,Prince Edward Island,38.63,9
-2016,200000,Prince Edward Island,38.81,9
-2016,205000,Prince Edward Island,39.07,9
-2016,210000,Prince Edward Island,39.32,9
-2016,215000,Prince Edward Island,39.56,9
-2016,220000,Prince Edward Island,39.79,9
-2016,225000,Prince Edward Island,40.01,9
-2016,230000,Prince Edward Island,40.23,9
-2016,235000,Prince Edward Island,40.42,9
-2016,240000,Prince Edward Island,40.62,9
-2016,245000,Prince Edward Island,40.8,9
-2016,250000,Prince Edward Island,40.98,9
-2016,255000,Prince Edward Island,41.15,9
-2016,260000,Prince Edward Island,41.31,9
-2016,265000,Prince Edward Island,41.47,9
-2016,270000,Prince Edward Island,41.63,9
-2016,275000,Prince Edward Island,41.78,9
-2016,280000,Prince Edward Island,41.92,9
-2016,285000,Prince Edward Island,42.06,9
-2016,290000,Prince Edward Island,42.19,9
-2016,295000,Prince Edward Island,42.31,9
-2016,300000,Prince Edward Island,42.43,9
-2016,305000,Prince Edward Island,42.55,9
-2016,310000,Prince Edward Island,42.67,9
-2016,315000,Prince Edward Island,42.79,9
-2016,320000,Prince Edward Island,42.88,9
-2016,325000,Prince Edward Island,42.99,9
-2016,330000,Prince Edward Island,43.09,9
-2016,335000,Prince Edward Island,43.2,9
-2016,340000,Prince Edward Island,43.29,9
-2016,345000,Prince Edward Island,43.38,9
-2016,10000,Quebec,3.14,9
-2016,11000,Quebec,4.61,4
-2016,12000,Quebec,5.84,1
-2016,13000,Quebec,6.88,1
-2016,14000,Quebec,7.82,1
-2016,15000,Quebec,9.7,4
-2016,16000,Quebec,11.33,5
-2016,17000,Quebec,12.78,8
-2016,18000,Quebec,14.06,8
-2016,19000,Quebec,15.33,8
-2016,20000,Quebec,16.5,8
-2016,21000,Quebec,17.43,9
-2016,22000,Quebec,18.27,9
-2016,23000,Quebec,19.03,9
-2016,24000,Quebec,19.74,11
-2016,25000,Quebec,20.39,11
-2016,26000,Quebec,20.99,11
-2016,27000,Quebec,21.54,11
-2016,28000,Quebec,22.05,11
-2016,29000,Quebec,22.52,12
-2016,30000,Quebec,22.97,12
-2016,31000,Quebec,23.39,13
-2016,32000,Quebec,23.79,13
-2016,33000,Quebec,24.15,13
-2016,34000,Quebec,24.5,13
-2016,35000,Quebec,24.82,13
-2016,36000,Quebec,25.13,13
-2016,37000,Quebec,25.42,13
-2016,38000,Quebec,25.7,13
-2016,39000,Quebec,25.96,13
-2016,40000,Quebec,26.21,13
-2016,41000,Quebec,26.45,13
-2016,42000,Quebec,26.75,13
-2016,43000,Quebec,27.14,13
-2016,44000,Quebec,27.52,13
-2016,45000,Quebec,27.8,13
-2016,46000,Quebec,28.13,13
-2016,47000,Quebec,28.48,13
-2016,48000,Quebec,28.82,13
-2016,49000,Quebec,29.14,13
-2016,50000,Quebec,29.45,13
-2016,51000,Quebec,29.74,13
-2016,52000,Quebec,29.99,13
-2016,53000,Quebec,30.23,13
-2016,54000,Quebec,30.46,13
-2016,55000,Quebec,30.68,13
-2016,56000,Quebec,30.81,13
-2016,57000,Quebec,30.93,13
-2016,58000,Quebec,31.04,13
-2016,59000,Quebec,31.16,13
-2016,60000,Quebec,31.27,13
-2016,65000,Quebec,31.76,13
-2016,70000,Quebec,32.19,13
-2016,75000,Quebec,32.52,13
-2016,80000,Quebec,32.81,13
-2016,85000,Quebec,33.07,13
-2016,90000,Quebec,33.52,13
-2016,95000,Quebec,34.13,13
-2016,100000,Quebec,34.71,13
-2016,105000,Quebec,35.27,13
-2016,110000,Quebec,35.82,13
-2016,115000,Quebec,36.33,13
-2016,120000,Quebec,36.79,13
-2016,125000,Quebec,37.22,13
-2016,130000,Quebec,37.61,13
-2016,135000,Quebec,38.0,13
-2016,140000,Quebec,38.48,13
-2016,145000,Quebec,39.02,13
-2016,150000,Quebec,39.51,13
-2016,155000,Quebec,39.97,13
-2016,160000,Quebec,40.28,13
-2016,165000,Quebec,40.58,13
-2016,170000,Quebec,40.86,13
-2016,175000,Quebec,41.11,13
-2016,180000,Quebec,41.36,13
-2016,185000,Quebec,41.59,13
-2016,190000,Quebec,41.81,13
-2016,195000,Quebec,42.01,13
-2016,200000,Quebec,42.21,13
-2016,205000,Quebec,42.49,13
-2016,210000,Quebec,42.75,13
-2016,215000,Quebec,42.99,13
-2016,220000,Quebec,43.23,13
-2016,225000,Quebec,43.45,13
-2016,230000,Quebec,43.66,13
-2016,235000,Quebec,43.87,13
-2016,240000,Quebec,44.07,13
-2016,245000,Quebec,44.25,13
-2016,250000,Quebec,44.44,13
-2016,255000,Quebec,44.61,13
-2016,260000,Quebec,44.78,13
-2016,265000,Quebec,44.93,13
-2016,270000,Quebec,45.1,13
-2016,275000,Quebec,45.24,13
-2016,280000,Quebec,45.39,13
-2016,285000,Quebec,45.53,13
-2016,290000,Quebec,45.66,13
-2016,295000,Quebec,45.79,13
-2016,300000,Quebec,45.92,13
-2016,305000,Quebec,46.04,13
-2016,310000,Quebec,46.15,13
-2016,315000,Quebec,46.27,13
-2016,320000,Quebec,46.38,13
-2016,325000,Quebec,46.49,13
-2016,330000,Quebec,46.58,13
-2016,335000,Quebec,46.69,13
-2016,340000,Quebec,46.78,12
-2016,345000,Quebec,46.88,12
-2016,10000,Saskatchewan,2.89,6
-2016,11000,Saskatchewan,4.61,5
-2016,12000,Saskatchewan,6.04,5
-2016,13000,Saskatchewan,7.26,4
-2016,14000,Saskatchewan,8.3,4
-2016,15000,Saskatchewan,9.2,2
-2016,16000,Saskatchewan,10.1,2
-2016,17000,Saskatchewan,11.44,2
-2016,18000,Saskatchewan,12.63,4
-2016,19000,Saskatchewan,13.69,4
-2016,20000,Saskatchewan,14.65,4
-2016,21000,Saskatchewan,15.51,5
-2016,22000,Saskatchewan,16.3,6
-2016,23000,Saskatchewan,17.01,6
-2016,24000,Saskatchewan,17.68,6
-2016,25000,Saskatchewan,18.28,6
+2016,26000,Ontario,18.8,8
+2016,27000,Ontario,19.1,8
+2016,28000,Ontario,19.38,8
+2016,29000,Ontario,19.64,8
+2016,30000,Ontario,19.88,8
+2016,31000,Ontario,20.11,8
+2016,32000,Ontario,20.32,8
+2016,33000,Ontario,20.52,8
+2016,34000,Ontario,20.71,9
+2016,35000,Ontario,20.88,9
+2016,36000,Ontario,21.05,9
+2016,37000,Ontario,21.37,9
+2016,38000,Ontario,21.66,9
+2016,39000,Ontario,21.88,9
+2016,40000,Ontario,22.0,9
+2016,41000,Ontario,22.12,9
+2016,42000,Ontario,22.28,9
+2016,43000,Ontario,22.48,9
+2016,44000,Ontario,22.67,9
+2016,45000,Ontario,22.86,9
+2016,46000,Ontario,23.13,9
+2016,47000,Ontario,23.41,9
+2016,48000,Ontario,23.68,9
+2016,49000,Ontario,24.25,9
+2016,50000,Ontario,24.49,9
+2016,51000,Ontario,24.72,9
+2016,52000,Ontario,24.91,9
+2016,53000,Ontario,25.1,9
+2016,54000,Ontario,25.27,9
+2016,55000,Ontario,25.43,9
+2016,56000,Ontario,25.51,9
+2016,57000,Ontario,25.58,9
+2016,58000,Ontario,25.65,9
+2016,59000,Ontario,25.71,9
+2016,60000,Ontario,25.78,9
+2016,65000,Ontario,26.08,9
+2016,70000,Ontario,26.33,9
+2016,75000,Ontario,26.76,9
+2016,80000,Ontario,26.94,9
+2016,85000,Ontario,27.14,9
+2016,90000,Ontario,27.39,9
+2016,95000,Ontario,27.88,9
+2016,100000,Ontario,28.34,9
+2016,105000,Ontario,28.76,9
+2016,110000,Ontario,29.14,9
+2016,115000,Ontario,29.49,8
+2016,120000,Ontario,29.81,8
+2016,125000,Ontario,30.11,8
+2016,130000,Ontario,30.37,8
+2016,135000,Ontario,30.62,9
+2016,140000,Ontario,30.86,9
+2016,145000,Ontario,31.17,10
+2016,150000,Ontario,31.47,11
+2016,155000,Ontario,31.78,11
+2016,160000,Ontario,32.08,11
+2016,165000,Ontario,32.35,11
+2016,170000,Ontario,32.61,11
+2016,175000,Ontario,32.86,11
+2016,180000,Ontario,33.09,11
+2016,185000,Ontario,33.31,11
+2016,190000,Ontario,33.51,11
+2016,195000,Ontario,33.71,11
+2016,200000,Ontario,33.9,11
+2016,205000,Ontario,34.25,11
+2016,210000,Ontario,34.5,11
+2016,215000,Ontario,34.75,11
+2016,220000,Ontario,34.98,11
+2016,225000,Ontario,35.23,11
+2016,230000,Ontario,35.48,11
+2016,235000,Ontario,35.7,11
+2016,240000,Ontario,35.92,11
+2016,245000,Ontario,36.12,11
+2016,250000,Ontario,36.33,11
+2016,255000,Ontario,36.52,11
+2016,260000,Ontario,36.7,11
+2016,265000,Ontario,36.88,11
+2016,270000,Ontario,37.06,11
+2016,275000,Ontario,37.22,11
+2016,280000,Ontario,37.38,11
+2016,285000,Ontario,37.54,11
+2016,290000,Ontario,37.69,11
+2016,295000,Ontario,37.83,11
+2016,300000,Ontario,37.96,11
+2016,10000,Prince Edward Island,5.14,1
+2016,11000,Prince Edward Island,7.54,1
+2016,12000,Prince Edward Island,9.55,1
+2016,13000,Prince Edward Island,11.25,1
+2016,14000,Prince Edward Island,12.7,1
+2016,15000,Prince Edward Island,13.96,1
+2016,16000,Prince Edward Island,15.07,1
+2016,17000,Prince Edward Island,16.05,1
+2016,18000,Prince Edward Island,16.91,1
+2016,19000,Prince Edward Island,17.68,1
+2016,20000,Prince Edward Island,18.38,1
+2016,21000,Prince Edward Island,19.01,1
+2016,22000,Prince Edward Island,19.59,1
+2016,23000,Prince Edward Island,20.11,1
+2016,24000,Prince Edward Island,20.59,2
+2016,25000,Prince Edward Island,21.03,2
+2016,26000,Prince Edward Island,21.43,2
+2016,27000,Prince Edward Island,21.81,2
+2016,28000,Prince Edward Island,22.16,2
+2016,29000,Prince Edward Island,22.5,3
+2016,30000,Prince Edward Island,22.8,3
+2016,31000,Prince Edward Island,23.08,3
+2016,32000,Prince Edward Island,23.35,3
+2016,33000,Prince Edward Island,23.72,3
+2016,34000,Prince Edward Island,24.08,3
+2016,35000,Prince Edward Island,24.41,3
+2016,36000,Prince Edward Island,24.72,3
+2016,37000,Prince Edward Island,25.01,3
+2016,38000,Prince Edward Island,25.29,3
+2016,39000,Prince Edward Island,25.55,3
+2016,40000,Prince Edward Island,25.8,3
+2016,41000,Prince Edward Island,26.05,3
+2016,42000,Prince Edward Island,26.28,3
+2016,43000,Prince Edward Island,26.49,2
+2016,44000,Prince Edward Island,26.7,2
+2016,45000,Prince Edward Island,26.9,2
+2016,46000,Prince Edward Island,27.18,2
+2016,47000,Prince Edward Island,27.47,3
+2016,48000,Prince Edward Island,27.75,3
+2016,49000,Prince Edward Island,28.03,3
+2016,50000,Prince Edward Island,28.29,3
+2016,51000,Prince Edward Island,28.53,3
+2016,52000,Prince Edward Island,28.74,3
+2016,53000,Prince Edward Island,28.94,3
+2016,54000,Prince Edward Island,29.13,3
+2016,55000,Prince Edward Island,29.3,3
+2016,56000,Prince Edward Island,29.4,3
+2016,57000,Prince Edward Island,29.48,3
+2016,58000,Prince Edward Island,29.56,3
+2016,59000,Prince Edward Island,29.64,3
+2016,60000,Prince Edward Island,29.72,3
+2016,65000,Prince Edward Island,30.12,3
+2016,70000,Prince Edward Island,30.62,3
+2016,75000,Prince Edward Island,31.06,3
+2016,80000,Prince Edward Island,31.45,3
+2016,85000,Prince Edward Island,31.78,3
+2016,90000,Prince Edward Island,32.09,3
+2016,95000,Prince Edward Island,32.62,3
+2016,100000,Prince Edward Island,33.12,3
+2016,105000,Prince Edward Island,33.58,3
+2016,110000,Prince Edward Island,33.98,3
+2016,115000,Prince Edward Island,34.37,3
+2016,120000,Prince Edward Island,34.72,4
+2016,125000,Prince Edward Island,35.04,4
+2016,130000,Prince Edward Island,35.33,4
+2016,135000,Prince Edward Island,35.6,4
+2016,140000,Prince Edward Island,35.85,4
+2016,145000,Prince Edward Island,36.19,4
+2016,150000,Prince Edward Island,36.51,4
+2016,155000,Prince Edward Island,36.8,4
+2016,160000,Prince Edward Island,37.08,4
+2016,165000,Prince Edward Island,37.34,5
+2016,170000,Prince Edward Island,37.58,5
+2016,175000,Prince Edward Island,37.82,5
+2016,180000,Prince Edward Island,38.04,5
+2016,185000,Prince Edward Island,38.25,5
+2016,190000,Prince Edward Island,38.44,5
+2016,195000,Prince Edward Island,38.63,5
+2016,200000,Prince Edward Island,38.81,5
+2016,205000,Prince Edward Island,39.07,5
+2016,210000,Prince Edward Island,39.32,5
+2016,215000,Prince Edward Island,39.56,5
+2016,220000,Prince Edward Island,39.79,5
+2016,225000,Prince Edward Island,40.01,5
+2016,230000,Prince Edward Island,40.23,5
+2016,235000,Prince Edward Island,40.42,5
+2016,240000,Prince Edward Island,40.62,5
+2016,245000,Prince Edward Island,40.8,5
+2016,250000,Prince Edward Island,40.98,5
+2016,255000,Prince Edward Island,41.15,5
+2016,260000,Prince Edward Island,41.31,5
+2016,265000,Prince Edward Island,41.47,5
+2016,270000,Prince Edward Island,41.63,5
+2016,275000,Prince Edward Island,41.78,5
+2016,280000,Prince Edward Island,41.92,5
+2016,285000,Prince Edward Island,42.06,5
+2016,290000,Prince Edward Island,42.19,5
+2016,295000,Prince Edward Island,42.31,5
+2016,300000,Prince Edward Island,42.43,5
+2016,10000,Quebec,3.14,5
+2016,11000,Quebec,4.61,11
+2016,12000,Quebec,5.84,13
+2016,13000,Quebec,6.88,13
+2016,14000,Quebec,7.82,13
+2016,15000,Quebec,9.7,10
+2016,16000,Quebec,11.33,9
+2016,17000,Quebec,12.78,6
+2016,18000,Quebec,14.06,6
+2016,19000,Quebec,15.33,6
+2016,20000,Quebec,16.5,6
+2016,21000,Quebec,17.43,5
+2016,22000,Quebec,18.27,5
+2016,23000,Quebec,19.03,5
+2016,24000,Quebec,19.74,3
+2016,25000,Quebec,20.39,3
+2016,26000,Quebec,20.99,3
+2016,27000,Quebec,21.54,3
+2016,28000,Quebec,22.05,3
+2016,29000,Quebec,22.52,2
+2016,30000,Quebec,22.97,2
+2016,31000,Quebec,23.39,1
+2016,32000,Quebec,23.79,1
+2016,33000,Quebec,24.15,1
+2016,34000,Quebec,24.5,1
+2016,35000,Quebec,24.82,1
+2016,36000,Quebec,25.13,1
+2016,37000,Quebec,25.42,1
+2016,38000,Quebec,25.7,1
+2016,39000,Quebec,25.96,1
+2016,40000,Quebec,26.21,1
+2016,41000,Quebec,26.45,1
+2016,42000,Quebec,26.75,1
+2016,43000,Quebec,27.14,1
+2016,44000,Quebec,27.52,1
+2016,45000,Quebec,27.8,1
+2016,46000,Quebec,28.13,1
+2016,47000,Quebec,28.48,1
+2016,48000,Quebec,28.82,1
+2016,49000,Quebec,29.14,1
+2016,50000,Quebec,29.45,1
+2016,51000,Quebec,29.74,1
+2016,52000,Quebec,29.99,1
+2016,53000,Quebec,30.23,1
+2016,54000,Quebec,30.46,1
+2016,55000,Quebec,30.68,1
+2016,56000,Quebec,30.81,1
+2016,57000,Quebec,30.93,1
+2016,58000,Quebec,31.04,1
+2016,59000,Quebec,31.16,1
+2016,60000,Quebec,31.27,1
+2016,65000,Quebec,31.76,1
+2016,70000,Quebec,32.19,1
+2016,75000,Quebec,32.52,1
+2016,80000,Quebec,32.81,1
+2016,85000,Quebec,33.07,1
+2016,90000,Quebec,33.52,1
+2016,95000,Quebec,34.13,1
+2016,100000,Quebec,34.71,1
+2016,105000,Quebec,35.27,1
+2016,110000,Quebec,35.82,1
+2016,115000,Quebec,36.33,1
+2016,120000,Quebec,36.79,1
+2016,125000,Quebec,37.22,1
+2016,130000,Quebec,37.61,1
+2016,135000,Quebec,38.0,1
+2016,140000,Quebec,38.48,1
+2016,145000,Quebec,39.02,1
+2016,150000,Quebec,39.51,1
+2016,155000,Quebec,39.97,1
+2016,160000,Quebec,40.28,1
+2016,165000,Quebec,40.58,1
+2016,170000,Quebec,40.86,1
+2016,175000,Quebec,41.11,1
+2016,180000,Quebec,41.36,1
+2016,185000,Quebec,41.59,1
+2016,190000,Quebec,41.81,1
+2016,195000,Quebec,42.01,1
+2016,200000,Quebec,42.21,1
+2016,205000,Quebec,42.49,1
+2016,210000,Quebec,42.75,1
+2016,215000,Quebec,42.99,1
+2016,220000,Quebec,43.23,1
+2016,225000,Quebec,43.45,1
+2016,230000,Quebec,43.66,1
+2016,235000,Quebec,43.87,1
+2016,240000,Quebec,44.07,1
+2016,245000,Quebec,44.25,1
+2016,250000,Quebec,44.44,1
+2016,255000,Quebec,44.61,1
+2016,260000,Quebec,44.78,1
+2016,265000,Quebec,44.93,1
+2016,270000,Quebec,45.1,1
+2016,275000,Quebec,45.24,1
+2016,280000,Quebec,45.39,1
+2016,285000,Quebec,45.53,1
+2016,290000,Quebec,45.66,1
+2016,295000,Quebec,45.79,1
+2016,300000,Quebec,45.92,1
+2016,10000,Saskatchewan,2.89,12
+2016,11000,Saskatchewan,4.61,12
+2016,12000,Saskatchewan,6.04,12
+2016,13000,Saskatchewan,7.26,12
+2016,14000,Saskatchewan,8.3,12
+2016,15000,Saskatchewan,9.2,13
+2016,16000,Saskatchewan,10.1,12
+2016,17000,Saskatchewan,11.44,12
+2016,18000,Saskatchewan,12.63,10
+2016,19000,Saskatchewan,13.69,10
+2016,20000,Saskatchewan,14.65,10
+2016,21000,Saskatchewan,15.51,9
+2016,22000,Saskatchewan,16.3,8
+2016,23000,Saskatchewan,17.01,8
+2016,24000,Saskatchewan,17.68,8
+2016,25000,Saskatchewan,18.28,8
 2016,26000,Saskatchewan,18.84,7
 2016,27000,Saskatchewan,19.36,7
 2016,28000,Saskatchewan,19.84,7
@@ -1210,15 +1111,15 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,30000,Saskatchewan,20.71,7
 2016,31000,Saskatchewan,21.1,7
 2016,32000,Saskatchewan,21.46,7
-2016,33000,Saskatchewan,21.81,8
-2016,34000,Saskatchewan,22.13,8
-2016,35000,Saskatchewan,22.44,8
-2016,36000,Saskatchewan,22.73,8
-2016,37000,Saskatchewan,23.0,8
-2016,38000,Saskatchewan,23.25,8
-2016,39000,Saskatchewan,23.5,8
-2016,40000,Saskatchewan,23.73,8
-2016,41000,Saskatchewan,23.96,8
+2016,33000,Saskatchewan,21.81,6
+2016,34000,Saskatchewan,22.13,6
+2016,35000,Saskatchewan,22.44,6
+2016,36000,Saskatchewan,22.73,6
+2016,37000,Saskatchewan,23.0,6
+2016,38000,Saskatchewan,23.25,6
+2016,39000,Saskatchewan,23.5,6
+2016,40000,Saskatchewan,23.73,6
+2016,41000,Saskatchewan,23.96,6
 2016,42000,Saskatchewan,24.17,7
 2016,43000,Saskatchewan,24.37,7
 2016,44000,Saskatchewan,24.56,7
@@ -1231,21 +1132,21 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,51000,Saskatchewan,26.55,7
 2016,52000,Saskatchewan,26.78,7
 2016,53000,Saskatchewan,27.01,7
-2016,54000,Saskatchewan,27.22,8
-2016,55000,Saskatchewan,27.41,8
-2016,56000,Saskatchewan,27.53,8
-2016,57000,Saskatchewan,27.63,8
-2016,58000,Saskatchewan,27.73,8
-2016,59000,Saskatchewan,27.82,8
-2016,60000,Saskatchewan,27.92,8
-2016,65000,Saskatchewan,28.35,8
-2016,70000,Saskatchewan,28.72,8
-2016,75000,Saskatchewan,29.04,8
-2016,80000,Saskatchewan,29.32,8
-2016,85000,Saskatchewan,29.56,8
-2016,90000,Saskatchewan,29.78,8
-2016,95000,Saskatchewan,30.24,8
-2016,100000,Saskatchewan,30.68,8
+2016,54000,Saskatchewan,27.22,7
+2016,55000,Saskatchewan,27.41,6
+2016,56000,Saskatchewan,27.53,6
+2016,57000,Saskatchewan,27.63,6
+2016,58000,Saskatchewan,27.73,6
+2016,59000,Saskatchewan,27.82,6
+2016,60000,Saskatchewan,27.92,6
+2016,65000,Saskatchewan,28.35,6
+2016,70000,Saskatchewan,28.72,6
+2016,75000,Saskatchewan,29.04,6
+2016,80000,Saskatchewan,29.32,6
+2016,85000,Saskatchewan,29.56,6
+2016,90000,Saskatchewan,29.78,6
+2016,95000,Saskatchewan,30.24,6
+2016,100000,Saskatchewan,30.68,7
 2016,105000,Saskatchewan,31.07,7
 2016,110000,Saskatchewan,31.42,7
 2016,115000,Saskatchewan,31.76,7
@@ -1254,29 +1155,29 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,130000,Saskatchewan,32.63,7
 2016,135000,Saskatchewan,32.94,7
 2016,140000,Saskatchewan,33.23,7
-2016,145000,Saskatchewan,33.6,8
-2016,150000,Saskatchewan,33.94,8
-2016,155000,Saskatchewan,34.27,8
-2016,160000,Saskatchewan,34.57,8
-2016,165000,Saskatchewan,34.86,8
-2016,170000,Saskatchewan,35.12,8
-2016,175000,Saskatchewan,35.38,8
-2016,180000,Saskatchewan,35.62,8
-2016,185000,Saskatchewan,35.85,8
-2016,190000,Saskatchewan,36.06,8
-2016,195000,Saskatchewan,36.26,8
-2016,200000,Saskatchewan,36.46,8
-2016,205000,Saskatchewan,36.74,8
-2016,210000,Saskatchewan,37.0,8
-2016,215000,Saskatchewan,37.26,8
-2016,220000,Saskatchewan,37.5,8
-2016,225000,Saskatchewan,37.74,8
-2016,230000,Saskatchewan,37.97,8
-2016,235000,Saskatchewan,38.17,8
-2016,240000,Saskatchewan,38.38,8
-2016,245000,Saskatchewan,38.57,8
-2016,250000,Saskatchewan,38.77,8
-2016,255000,Saskatchewan,38.95,8
+2016,145000,Saskatchewan,33.6,6
+2016,150000,Saskatchewan,33.94,6
+2016,155000,Saskatchewan,34.27,6
+2016,160000,Saskatchewan,34.57,6
+2016,165000,Saskatchewan,34.86,6
+2016,170000,Saskatchewan,35.12,6
+2016,175000,Saskatchewan,35.38,6
+2016,180000,Saskatchewan,35.62,6
+2016,185000,Saskatchewan,35.85,6
+2016,190000,Saskatchewan,36.06,6
+2016,195000,Saskatchewan,36.26,6
+2016,200000,Saskatchewan,36.46,6
+2016,205000,Saskatchewan,36.74,6
+2016,210000,Saskatchewan,37.0,6
+2016,215000,Saskatchewan,37.26,6
+2016,220000,Saskatchewan,37.5,6
+2016,225000,Saskatchewan,37.74,6
+2016,230000,Saskatchewan,37.97,6
+2016,235000,Saskatchewan,38.17,6
+2016,240000,Saskatchewan,38.38,6
+2016,245000,Saskatchewan,38.57,7
+2016,250000,Saskatchewan,38.77,6
+2016,255000,Saskatchewan,38.95,7
 2016,260000,Saskatchewan,39.12,7
 2016,265000,Saskatchewan,39.28,7
 2016,270000,Saskatchewan,39.45,7
@@ -1286,120 +1187,102 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,Saskatchewan,40.04,7
 2016,295000,Saskatchewan,40.17,7
 2016,300000,Saskatchewan,40.3,7
-2016,305000,Saskatchewan,40.43,7
-2016,310000,Saskatchewan,40.55,7
-2016,315000,Saskatchewan,40.67,7
-2016,320000,Saskatchewan,40.78,7
-2016,325000,Saskatchewan,40.9,7
-2016,330000,Saskatchewan,41.0,7
-2016,335000,Saskatchewan,41.11,7
-2016,340000,Saskatchewan,41.21,7
-2016,345000,Saskatchewan,41.31,7
-2016,10000,Yukon,2.89,7
-2016,11000,Yukon,4.61,6
-2016,12000,Yukon,6.32,6
-2016,13000,Yukon,8.01,6
-2016,14000,Yukon,9.45,6
-2016,15000,Yukon,10.7,6
-2016,16000,Yukon,11.8,6
-2016,17000,Yukon,12.77,7
+2016,10000,Yukon,2.89,13
+2016,11000,Yukon,4.61,13
+2016,12000,Yukon,6.32,8
+2016,13000,Yukon,8.01,8
+2016,14000,Yukon,9.45,8
+2016,15000,Yukon,10.7,8
+2016,16000,Yukon,11.8,8
+2016,17000,Yukon,12.77,9
 2016,18000,Yukon,13.63,7
 2016,19000,Yukon,14.4,7
 2016,20000,Yukon,15.09,7
-2016,21000,Yukon,15.71,6
-2016,22000,Yukon,16.28,5
-2016,23000,Yukon,16.8,5
-2016,24000,Yukon,17.28,5
-2016,25000,Yukon,17.71,5
-2016,26000,Yukon,18.12,5
-2016,27000,Yukon,18.49,5
-2016,28000,Yukon,18.84,5
-2016,29000,Yukon,19.17,5
-2016,30000,Yukon,19.47,5
-2016,31000,Yukon,19.75,4
-2016,32000,Yukon,20.02,4
-2016,33000,Yukon,20.26,4
-2016,34000,Yukon,20.5,4
-2016,35000,Yukon,20.72,4
-2016,36000,Yukon,20.93,4
-2016,37000,Yukon,21.13,4
-2016,38000,Yukon,21.31,4
-2016,39000,Yukon,21.49,4
-2016,40000,Yukon,21.65,4
-2016,41000,Yukon,21.82,4
-2016,42000,Yukon,21.97,4
-2016,43000,Yukon,22.11,4
-2016,44000,Yukon,22.25,4
-2016,45000,Yukon,22.39,4
-2016,46000,Yukon,22.64,4
-2016,47000,Yukon,22.93,4
-2016,48000,Yukon,23.21,4
-2016,49000,Yukon,23.48,4
-2016,50000,Yukon,23.74,4
-2016,51000,Yukon,23.97,4
-2016,52000,Yukon,24.17,4
-2016,53000,Yukon,24.37,4
-2016,54000,Yukon,24.56,4
-2016,55000,Yukon,24.72,4
-2016,56000,Yukon,24.82,4
-2016,57000,Yukon,24.9,4
-2016,58000,Yukon,24.97,4
-2016,59000,Yukon,25.05,4
-2016,60000,Yukon,25.12,4
-2016,65000,Yukon,25.46,4
-2016,70000,Yukon,25.75,4
-2016,75000,Yukon,26.0,4
-2016,80000,Yukon,26.22,4
-2016,85000,Yukon,26.41,4
-2016,90000,Yukon,26.59,4
-2016,95000,Yukon,27.09,4
-2016,100000,Yukon,27.58,3
-2016,105000,Yukon,28.02,3
-2016,110000,Yukon,28.42,2
-2016,115000,Yukon,28.79,2
-2016,120000,Yukon,29.13,2
-2016,125000,Yukon,29.44,2
-2016,130000,Yukon,29.73,2
-2016,135000,Yukon,29.99,2
-2016,140000,Yukon,30.24,2
-2016,145000,Yukon,30.63,2
-2016,150000,Yukon,31.0,2
-2016,155000,Yukon,31.35,2
-2016,160000,Yukon,31.67,2
-2016,165000,Yukon,31.98,2
-2016,170000,Yukon,32.26,2
-2016,175000,Yukon,32.54,2
-2016,180000,Yukon,32.8,2
-2016,185000,Yukon,33.04,2
-2016,190000,Yukon,33.27,2
-2016,195000,Yukon,33.49,2
-2016,200000,Yukon,33.7,2
-2016,205000,Yukon,34.0,2
-2016,210000,Yukon,34.27,2
-2016,215000,Yukon,34.54,2
-2016,220000,Yukon,34.8,2
-2016,225000,Yukon,35.04,2
-2016,230000,Yukon,35.28,2
-2016,235000,Yukon,35.5,2
-2016,240000,Yukon,35.72,2
-2016,245000,Yukon,35.92,2
-2016,250000,Yukon,36.12,2
-2016,255000,Yukon,36.31,2
-2016,260000,Yukon,36.49,2
-2016,265000,Yukon,36.66,2
-2016,270000,Yukon,36.84,2
-2016,275000,Yukon,37.0,2
-2016,280000,Yukon,37.16,2
-2016,285000,Yukon,37.31,2
-2016,290000,Yukon,37.46,2
-2016,295000,Yukon,37.59,2
-2016,300000,Yukon,37.73,2
-2016,305000,Yukon,37.86,2
-2016,310000,Yukon,37.99,2
-2016,315000,Yukon,38.12,2
-2016,320000,Yukon,38.23,2
-2016,325000,Yukon,38.35,2
-2016,330000,Yukon,38.46,2
-2016,335000,Yukon,38.58,2
-2016,340000,Yukon,38.68,2
-2016,345000,Yukon,38.78,2
+2016,21000,Yukon,15.71,8
+2016,22000,Yukon,16.28,9
+2016,23000,Yukon,16.8,9
+2016,24000,Yukon,17.28,9
+2016,25000,Yukon,17.71,9
+2016,26000,Yukon,18.12,9
+2016,27000,Yukon,18.49,9
+2016,28000,Yukon,18.84,9
+2016,29000,Yukon,19.17,9
+2016,30000,Yukon,19.47,9
+2016,31000,Yukon,19.75,10
+2016,32000,Yukon,20.02,10
+2016,33000,Yukon,20.26,10
+2016,34000,Yukon,20.5,10
+2016,35000,Yukon,20.72,10
+2016,36000,Yukon,20.93,10
+2016,37000,Yukon,21.13,10
+2016,38000,Yukon,21.31,10
+2016,39000,Yukon,21.49,10
+2016,40000,Yukon,21.65,10
+2016,41000,Yukon,21.82,10
+2016,42000,Yukon,21.97,10
+2016,43000,Yukon,22.11,10
+2016,44000,Yukon,22.25,10
+2016,45000,Yukon,22.39,10
+2016,46000,Yukon,22.64,10
+2016,47000,Yukon,22.93,10
+2016,48000,Yukon,23.21,10
+2016,49000,Yukon,23.48,10
+2016,50000,Yukon,23.74,10
+2016,51000,Yukon,23.97,10
+2016,52000,Yukon,24.17,10
+2016,53000,Yukon,24.37,10
+2016,54000,Yukon,24.56,10
+2016,55000,Yukon,24.72,10
+2016,56000,Yukon,24.82,10
+2016,57000,Yukon,24.9,10
+2016,58000,Yukon,24.97,10
+2016,59000,Yukon,25.05,10
+2016,60000,Yukon,25.12,10
+2016,65000,Yukon,25.46,10
+2016,70000,Yukon,25.75,10
+2016,75000,Yukon,26.0,10
+2016,80000,Yukon,26.22,10
+2016,85000,Yukon,26.41,10
+2016,90000,Yukon,26.59,10
+2016,95000,Yukon,27.09,10
+2016,100000,Yukon,27.58,11
+2016,105000,Yukon,28.02,11
+2016,110000,Yukon,28.42,12
+2016,115000,Yukon,28.79,12
+2016,120000,Yukon,29.13,12
+2016,125000,Yukon,29.44,12
+2016,130000,Yukon,29.73,12
+2016,135000,Yukon,29.99,12
+2016,140000,Yukon,30.24,12
+2016,145000,Yukon,30.63,12
+2016,150000,Yukon,31.0,12
+2016,155000,Yukon,31.35,12
+2016,160000,Yukon,31.67,12
+2016,165000,Yukon,31.98,12
+2016,170000,Yukon,32.26,12
+2016,175000,Yukon,32.54,12
+2016,180000,Yukon,32.8,12
+2016,185000,Yukon,33.04,12
+2016,190000,Yukon,33.27,12
+2016,195000,Yukon,33.49,12
+2016,200000,Yukon,33.7,12
+2016,205000,Yukon,34.0,12
+2016,210000,Yukon,34.27,12
+2016,215000,Yukon,34.54,12
+2016,220000,Yukon,34.8,12
+2016,225000,Yukon,35.04,12
+2016,230000,Yukon,35.28,12
+2016,235000,Yukon,35.5,12
+2016,240000,Yukon,35.72,12
+2016,245000,Yukon,35.92,12
+2016,250000,Yukon,36.12,12
+2016,255000,Yukon,36.31,12
+2016,260000,Yukon,36.49,12
+2016,265000,Yukon,36.66,12
+2016,270000,Yukon,36.84,12
+2016,275000,Yukon,37.0,12
+2016,280000,Yukon,37.16,12
+2016,285000,Yukon,37.31,12
+2016,290000,Yukon,37.46,12
+2016,295000,Yukon,37.59,12
+2016,300000,Yukon,37.73,12
