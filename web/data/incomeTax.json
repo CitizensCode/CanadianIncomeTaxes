@@ -8,7 +8,7 @@
           {"upper": "Above","rate": "29"}
         ],
         "credits": [
-          {"type": "personal", "amount": "11138", "percent": "15.0"}
+          {"type": "personal", "amount": "8648", "percent": "15.0"}
         ],
         "cpp": {
           "maxIncome": "41100",
@@ -640,7 +640,7 @@
           {"upper": "Above", "rate": "33"}
         ],
         "credits": [
-          {"type": "personal", "amount": "11474", "percent": "15"}
+          {"type": "personal", "amount": "11474", "percent": "15.0"}
         ],
         "cpp": {
           "maxIncome": "54900",
