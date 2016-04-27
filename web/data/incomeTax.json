@@ -847,5 +847,225 @@
         }
       }
     }
+  },
+{"year" : "20162",
+   "data": {
+      "Federal":{
+        "brackets": [
+          {"upper": "45282","rate": "15"},
+          {"upper": "90563","rate": "20.5"},
+          {"upper": "140388","rate": "26"},
+          {"upper": "200000","rate": "29"},
+          {"upper": "Above", "rate": "33"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "11474", "percent": "15.0"}
+        ],
+        "cpp": {
+          "maxIncome": "54900",
+          "exemption": "3500",
+          "rate": "4.95"
+        },
+        "ei": {
+          "maxIncome": "50800",
+          "rate": "1.88"
+        }
+      },
+      "Newfoundland and Labrador":{
+        "brackets": [
+          {"upper": "35148","rate": "7.7"},
+          {"upper": "70295","rate": "12.5"},
+          {"upper": "125500","rate": "13.3"},
+          {"upper": "175700","rate": "14.3"},
+          {"upper": "Above","rate": "15.3"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "8802", "percent": "7.7"}
+        ]
+      },
+      "Prince Edward Island":{
+        "brackets": [
+          {"upper": "31984","rate": "9.8"},
+          {"upper": "63969","rate": "13.8"},
+          {"upper": "Above","rate": "16.7"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "7708", "percent": "9.8"}
+        ],
+        "surtaxes": [
+          {"lower": "12500", "rate": "10.0"}
+        ]
+      },
+      "Nova Scotia":{
+        "brackets": [
+          {"upper": "29590","rate": "8.79"},
+          {"upper": "59180","rate": "14.95"},
+          {"upper": "93000","rate": "16.67"},
+          {"upper": "150000","rate": "17.5"},
+          {"upper": "Above","rate": "21"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "8481", "percent": "8.79"}
+        ]
+      },
+      "New Brunswick":{
+        "brackets": [
+          {"upper": "40492","rate": "9.68"},
+          {"upper": "80985","rate": "14.82"},
+          {"upper": "131664","rate": "16.52"},
+          {"upper": "150000","rate": "17.84"},
+          {"upper": "250000","rate": "21.00"},
+          {"upper": "Above","rate": "25.75"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "9758", "percent": "9.68"}
+        ]
+      },
+      "Ontario":{
+        "brackets": [
+          {"upper": "41536","rate": "5.05"},
+          {"upper": "83075","rate": "9.15"},
+          {"upper": "150000","rate": "11.16"},
+          {"upper": "220000","rate": "12.16"},
+          {"upper": "Above","rate": "13.16"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "10011", "percent": "5.05"}
+        ],
+        "surtaxes": [
+          {"lower": "4484", "rate": "20.0"},
+          {"lower": "5739", "rate": "36.0"}
+        ],
+        "healthfee": [
+          {"lower": "0", "upper": "20000", "rate":"0", "value":"0"},
+          {"lower": "20001", "upper": "25000", "rate":"6", "value": "0"},
+          {"lower": "25001", "upper": "36000", "value": "300", "rate": "0"},
+          {"lower": "36001", "upper": "38500", "rate":"6", "value": "300"},
+          {"lower": "38501", "upper": "48000", "rate":"0", "value": "450"},
+          {"lower": "48001", "upper": "48600", "rate":"25", "value": "450"},
+          {"lower": "48601", "upper": "72000", "rate":"0", "value": "600"},
+          {"lower": "72001", "upper": "72600", "rate":"25", "value": "600"},
+          {"lower": "72601", "upper": "200000", "rate":"0", "value": "750"},
+          {"lower": "200001", "upper": "200600", "rate":"25", "value": "750"},
+          {"lower": "200601", "upper": "9999999999999", "rate":"0", "value": "900"}
+        ]
+      },
+      "Manitoba":{
+        "brackets": [
+          {"upper": "31000","rate": "10.8"},
+          {"upper": "67000","rate": "12.75"},
+          {"upper": "Above","rate": "17.4"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "9134", "percent": "10.8"}
+        ]
+      },
+      "Saskatchewan":{
+        "brackets": [
+          {"upper": "44601","rate": "11.0"},
+          {"upper": "127430","rate": "13.0"},
+          {"upper": "Above","rate": "15.0"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "15843", "percent": "11.0"}
+        ]
+      },
+      "Alberta":{
+        "brackets": [
+          {"upper": "125000","rate": "10.0"},
+          {"upper": "150000","rate": "12"},
+          {"upper": "200000","rate": "13"},
+          {"upper": "300000","rate": "14"},
+          {"upper": "Above","rate": "15"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "18451", "percent": "10.0"}
+        ]
+      },
+      "British Columbia":{
+        "brackets": [
+          {"upper": "38210","rate": "5.06"},
+          {"upper": "76421","rate": "7.7"},
+          {"upper": "87741","rate": "10.5"},
+          {"upper": "106543","rate": "12.29"},
+          {"upper": "Above","rate": "14.7"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "10027", "percent": "5.06"}
+        ],
+        "healthfee": [
+          {"lower": "0", "upper": "22000", "rate":"0", "value":"0"},
+          {"lower": "22001", "upper": "24000", "rate":"0", "value":"153.60"},
+          {"lower": "24001", "upper": "26000", "rate":"0", "value":"307.20"},
+          {"lower": "26001", "upper": "28000", "rate":"0", "value":"460.80"},
+          {"lower": "28001", "upper": "30000", "rate":"0", "value":"614.40"},
+          {"lower": "30001", "upper": "99999999999999", "rate":"0", "value":"900.0"}
+        ]
+      },
+      "Yukon":{
+        "brackets": [
+          {"upper": "45282","rate": "6.40"},
+          {"upper": "90563","rate": "9.00"},
+          {"upper": "140388","rate": "10.9"},
+          {"upper": "500000","rate": "12.8"},
+          {"upper": "Above","rate": "15.0"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "11474", "percent": "6.4"}
+        ]
+      },
+      "Northwest Territories":{
+        "brackets": [
+          {"upper": "41011","rate": "5.9"},
+          {"upper": "82024","rate": "8.6"},
+          {"upper": "133353","rate": "12.2"},
+          {"upper": "Above","rate": "14.05"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "14081", "percent": "5.9"}
+        ]
+      },
+      "Nunavut":{
+        "brackets": [
+          {"upper": "43176","rate": "4.0"},
+          {"upper": "86351","rate": "7.0"},
+          {"upper": "140388","rate": "9.0"},
+          {"upper": "Above","rate": "11.5"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "12947", "percent": "4.0"}
+        ]
+      },
+      "Quebec":{
+        "brackets": [
+          {"upper": "42390","rate": "16.0"},
+          {"upper": "84780","rate": "20.0"},
+          {"upper": "103150","rate": "24.0"},
+          {"upper": "Above","rate": "25.75"}
+        ],
+        "credits": [
+          {"type": "personal", "amount": "11550", "percent": "20.0"}
+        ],
+        "healthfeeqc": [
+          {"lower": "0", "upper": "18570", "rate":"0", "value":"0", "max":"0"},
+          {"lower": "18571", "upper": "41265", "rate":"5", "value":"0", "max":"50"},
+          {"lower": "41266", "upper": "134095", "rate":"5", "value":"50", "max":"175"},
+          {"lower": "134096", "upper": "9999999999999", "rate":"4", "value":"175", "max":"1000"}
+        ],
+        "cpp": {
+          "maxIncome": "54900",
+          "exemption": "3500",
+          "rate": "5.325"
+        },
+        "ei": {
+          "maxIncome": "50800",
+          "rate": "1.52"
+        },
+        "qpip": {
+          "maxIncome": "71500",
+          "rate": "0.548"
+        }
+      }
+    }
   }
 ]

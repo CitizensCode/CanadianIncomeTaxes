@@ -98,6 +98,46 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,Alberta,38.12,10
 2016,295000,Alberta,38.27,10
 2016,300000,Alberta,38.41,10
+2016,305000,Alberta,38.57,10
+2016,310000,Alberta,38.72,10
+2016,315000,Alberta,38.88,10
+2016,320000,Alberta,39.01,10
+2016,325000,Alberta,39.15,10
+2016,330000,Alberta,39.28,10
+2016,335000,Alberta,39.42,10
+2016,340000,Alberta,39.54,10
+2016,345000,Alberta,39.67,10
+2016,350000,Alberta,39.78,10
+2016,355000,Alberta,39.91,10
+2016,360000,Alberta,40.02,10
+2016,365000,Alberta,40.12,9
+2016,370000,Alberta,40.23,9
+2016,375000,Alberta,40.34,9
+2016,380000,Alberta,40.44,9
+2016,385000,Alberta,40.53,9
+2016,390000,Alberta,40.63,9
+2016,395000,Alberta,40.72,9
+2016,400000,Alberta,40.81,9
+2016,405000,Alberta,40.9,9
+2016,410000,Alberta,40.98,9
+2016,415000,Alberta,41.08,9
+2016,420000,Alberta,41.16,9
+2016,425000,Alberta,41.24,9
+2016,430000,Alberta,41.32,9
+2016,435000,Alberta,41.39,9
+2016,440000,Alberta,41.47,9
+2016,445000,Alberta,41.54,9
+2016,450000,Alberta,41.61,9
+2016,455000,Alberta,41.68,9
+2016,460000,Alberta,41.75,9
+2016,465000,Alberta,41.82,9
+2016,470000,Alberta,41.88,9
+2016,475000,Alberta,41.95,9
+2016,480000,Alberta,42.01,9
+2016,485000,Alberta,42.07,9
+2016,490000,Alberta,42.14,9
+2016,495000,Alberta,42.19,9
+2016,500000,Alberta,42.25,9
 2016,10000,British Columbia,2.89,8
 2016,11000,British Columbia,5.06,6
 2016,12000,British Columbia,6.87,7
@@ -197,6 +237,46 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,British Columbia,38.84,8
 2016,295000,British Columbia,38.99,8
 2016,300000,British Columbia,39.13,8
+2016,305000,British Columbia,39.27,8
+2016,310000,British Columbia,39.41,8
+2016,315000,British Columbia,39.55,8
+2016,320000,British Columbia,39.66,8
+2016,325000,British Columbia,39.79,8
+2016,330000,British Columbia,39.91,8
+2016,335000,British Columbia,40.03,8
+2016,340000,British Columbia,40.14,8
+2016,345000,British Columbia,40.25,8
+2016,350000,British Columbia,40.35,8
+2016,355000,British Columbia,40.46,8
+2016,360000,British Columbia,40.56,8
+2016,365000,British Columbia,40.65,8
+2016,370000,British Columbia,40.75,8
+2016,375000,British Columbia,40.85,8
+2016,380000,British Columbia,40.94,8
+2016,385000,British Columbia,41.03,8
+2016,390000,British Columbia,41.11,8
+2016,395000,British Columbia,41.2,8
+2016,400000,British Columbia,41.27,8
+2016,405000,British Columbia,41.36,8
+2016,410000,British Columbia,41.43,8
+2016,415000,British Columbia,41.51,8
+2016,420000,British Columbia,41.58,8
+2016,425000,British Columbia,41.66,8
+2016,430000,British Columbia,41.73,8
+2016,435000,British Columbia,41.79,8
+2016,440000,British Columbia,41.86,8
+2016,445000,British Columbia,41.93,8
+2016,450000,British Columbia,41.99,8
+2016,455000,British Columbia,42.05,8
+2016,460000,British Columbia,42.12,8
+2016,465000,British Columbia,42.17,8
+2016,470000,British Columbia,42.23,8
+2016,475000,British Columbia,42.29,8
+2016,480000,British Columbia,42.35,8
+2016,485000,British Columbia,42.4,8
+2016,490000,British Columbia,42.46,8
+2016,495000,British Columbia,42.51,8
+2016,500000,British Columbia,42.56,8
 2016,10000,Manitoba,3.83,3
 2016,11000,Manitoba,6.44,3
 2016,12000,Manitoba,8.62,2
@@ -296,6 +376,46 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,Manitoba,42.61,4
 2016,295000,Manitoba,42.73,4
 2016,300000,Manitoba,42.86,4
+2016,305000,Manitoba,42.99,4
+2016,310000,Manitoba,43.1,4
+2016,315000,Manitoba,43.23,4
+2016,320000,Manitoba,43.33,4
+2016,325000,Manitoba,43.44,4
+2016,330000,Manitoba,43.54,4
+2016,335000,Manitoba,43.66,4
+2016,340000,Manitoba,43.75,4
+2016,345000,Manitoba,43.85,4
+2016,350000,Manitoba,43.94,4
+2016,355000,Manitoba,44.03,4
+2016,360000,Manitoba,44.12,4
+2016,365000,Manitoba,44.2,4
+2016,370000,Manitoba,44.29,4
+2016,375000,Manitoba,44.37,4
+2016,380000,Manitoba,44.45,4
+2016,385000,Manitoba,44.53,4
+2016,390000,Manitoba,44.6,4
+2016,395000,Manitoba,44.68,4
+2016,400000,Manitoba,44.74,4
+2016,405000,Manitoba,44.82,4
+2016,410000,Manitoba,44.88,4
+2016,415000,Manitoba,44.96,4
+2016,420000,Manitoba,45.02,4
+2016,425000,Manitoba,45.08,4
+2016,430000,Manitoba,45.15,4
+2016,435000,Manitoba,45.2,4
+2016,440000,Manitoba,45.26,4
+2016,445000,Manitoba,45.32,4
+2016,450000,Manitoba,45.37,4
+2016,455000,Manitoba,45.43,4
+2016,460000,Manitoba,45.49,4
+2016,465000,Manitoba,45.54,4
+2016,470000,Manitoba,45.59,4
+2016,475000,Manitoba,45.64,4
+2016,480000,Manitoba,45.69,4
+2016,485000,Manitoba,45.74,4
+2016,490000,Manitoba,45.79,4
+2016,495000,Manitoba,45.83,4
+2016,500000,Manitoba,45.88,4
 2016,10000,New Brunswick,3.12,6
 2016,11000,New Brunswick,5.7,5
 2016,12000,New Brunswick,7.85,5
@@ -395,6 +515,46 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,New Brunswick,43.74,3
 2016,295000,New Brunswick,43.9,3
 2016,300000,New Brunswick,44.05,3
+2016,305000,New Brunswick,44.21,3
+2016,310000,New Brunswick,44.35,3
+2016,315000,New Brunswick,44.5,3
+2016,320000,New Brunswick,44.63,3
+2016,325000,New Brunswick,44.77,3
+2016,330000,New Brunswick,44.89,3
+2016,335000,New Brunswick,45.03,3
+2016,340000,New Brunswick,45.14,3
+2016,345000,New Brunswick,45.26,3
+2016,350000,New Brunswick,45.37,3
+2016,355000,New Brunswick,45.49,3
+2016,360000,New Brunswick,45.6,3
+2016,365000,New Brunswick,45.7,3
+2016,370000,New Brunswick,45.8,3
+2016,375000,New Brunswick,45.91,3
+2016,380000,New Brunswick,46.0,3
+2016,385000,New Brunswick,46.1,3
+2016,390000,New Brunswick,46.19,3
+2016,395000,New Brunswick,46.28,3
+2016,400000,New Brunswick,46.36,3
+2016,405000,New Brunswick,46.45,3
+2016,410000,New Brunswick,46.53,3
+2016,415000,New Brunswick,46.62,3
+2016,420000,New Brunswick,46.7,3
+2016,425000,New Brunswick,46.78,3
+2016,430000,New Brunswick,46.85,3
+2016,435000,New Brunswick,46.92,3
+2016,440000,New Brunswick,47.0,3
+2016,445000,New Brunswick,47.07,3
+2016,450000,New Brunswick,47.14,3
+2016,455000,New Brunswick,47.2,3
+2016,460000,New Brunswick,47.27,3
+2016,465000,New Brunswick,47.34,3
+2016,470000,New Brunswick,47.4,3
+2016,475000,New Brunswick,47.46,3
+2016,480000,New Brunswick,47.52,3
+2016,485000,New Brunswick,47.58,3
+2016,490000,New Brunswick,47.64,3
+2016,495000,New Brunswick,47.69,3
+2016,500000,New Brunswick,47.75,3
 2016,10000,Newfoundland and Labrador,3.81,4
 2016,11000,Newfoundland and Labrador,6.15,4
 2016,12000,Newfoundland and Labrador,8.09,4
@@ -494,6 +654,46 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,Newfoundland and Labrador,40.08,6
 2016,295000,Newfoundland and Labrador,40.22,6
 2016,300000,Newfoundland and Labrador,40.35,6
+2016,305000,Newfoundland and Labrador,40.48,6
+2016,310000,Newfoundland and Labrador,40.6,6
+2016,315000,Newfoundland and Labrador,40.73,6
+2016,320000,Newfoundland and Labrador,40.84,6
+2016,325000,Newfoundland and Labrador,40.96,6
+2016,330000,Newfoundland and Labrador,41.07,6
+2016,335000,Newfoundland and Labrador,41.19,6
+2016,340000,Newfoundland and Labrador,41.28,6
+2016,345000,Newfoundland and Labrador,41.39,6
+2016,350000,Newfoundland and Labrador,41.48,6
+2016,355000,Newfoundland and Labrador,41.59,6
+2016,360000,Newfoundland and Labrador,41.68,6
+2016,365000,Newfoundland and Labrador,41.76,6
+2016,370000,Newfoundland and Labrador,41.85,6
+2016,375000,Newfoundland and Labrador,41.95,6
+2016,380000,Newfoundland and Labrador,42.03,6
+2016,385000,Newfoundland and Labrador,42.11,6
+2016,390000,Newfoundland and Labrador,42.19,6
+2016,395000,Newfoundland and Labrador,42.27,6
+2016,400000,Newfoundland and Labrador,42.34,6
+2016,405000,Newfoundland and Labrador,42.41,6
+2016,410000,Newfoundland and Labrador,42.48,6
+2016,415000,Newfoundland and Labrador,42.56,6
+2016,420000,Newfoundland and Labrador,42.63,6
+2016,425000,Newfoundland and Labrador,42.69,6
+2016,430000,Newfoundland and Labrador,42.76,6
+2016,435000,Newfoundland and Labrador,42.81,6
+2016,440000,Newfoundland and Labrador,42.88,6
+2016,445000,Newfoundland and Labrador,42.95,6
+2016,450000,Newfoundland and Labrador,43.0,6
+2016,455000,Newfoundland and Labrador,43.05,6
+2016,460000,Newfoundland and Labrador,43.12,6
+2016,465000,Newfoundland and Labrador,43.17,6
+2016,470000,Newfoundland and Labrador,43.23,6
+2016,475000,Newfoundland and Labrador,43.28,6
+2016,480000,Newfoundland and Labrador,43.33,6
+2016,485000,Newfoundland and Labrador,43.39,6
+2016,490000,Newfoundland and Labrador,43.44,6
+2016,495000,Newfoundland and Labrador,43.48,6
+2016,500000,Newfoundland and Labrador,43.53,6
 2016,10000,Northwest Territories,2.89,9
 2016,11000,Northwest Territories,4.61,9
 2016,12000,Northwest Territories,6.04,10
@@ -593,6 +793,46 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,Northwest Territories,38.34,9
 2016,295000,Northwest Territories,38.49,9
 2016,300000,Northwest Territories,38.63,9
+2016,305000,Northwest Territories,38.77,9
+2016,310000,Northwest Territories,38.9,9
+2016,315000,Northwest Territories,39.03,9
+2016,320000,Northwest Territories,39.15,9
+2016,325000,Northwest Territories,39.28,9
+2016,330000,Northwest Territories,39.39,9
+2016,335000,Northwest Territories,39.51,9
+2016,340000,Northwest Territories,39.62,9
+2016,345000,Northwest Territories,39.73,9
+2016,350000,Northwest Territories,39.83,9
+2016,355000,Northwest Territories,39.94,9
+2016,360000,Northwest Territories,40.04,9
+2016,365000,Northwest Territories,40.12,10
+2016,370000,Northwest Territories,40.22,10
+2016,375000,Northwest Territories,40.32,10
+2016,380000,Northwest Territories,40.4,10
+2016,385000,Northwest Territories,40.49,10
+2016,390000,Northwest Territories,40.57,10
+2016,395000,Northwest Territories,40.66,10
+2016,400000,Northwest Territories,40.73,10
+2016,405000,Northwest Territories,40.81,10
+2016,410000,Northwest Territories,40.89,10
+2016,415000,Northwest Territories,40.97,10
+2016,420000,Northwest Territories,41.04,10
+2016,425000,Northwest Territories,41.11,10
+2016,430000,Northwest Territories,41.18,10
+2016,435000,Northwest Territories,41.24,10
+2016,440000,Northwest Territories,41.31,10
+2016,445000,Northwest Territories,41.38,10
+2016,450000,Northwest Territories,41.43,10
+2016,455000,Northwest Territories,41.49,10
+2016,460000,Northwest Territories,41.56,10
+2016,465000,Northwest Territories,41.62,10
+2016,470000,Northwest Territories,41.67,10
+2016,475000,Northwest Territories,41.73,10
+2016,480000,Northwest Territories,41.79,10
+2016,485000,Northwest Territories,41.84,10
+2016,490000,Northwest Territories,41.9,10
+2016,495000,Northwest Territories,41.94,10
+2016,500000,Northwest Territories,42.0,10
 2016,10000,Nova Scotia,4.23,2
 2016,11000,Nova Scotia,6.62,2
 2016,12000,Nova Scotia,8.62,3
@@ -692,6 +932,46 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,Nova Scotia,44.52,2
 2016,295000,Nova Scotia,44.67,2
 2016,300000,Nova Scotia,44.83,2
+2016,305000,Nova Scotia,44.98,2
+2016,310000,Nova Scotia,45.12,2
+2016,315000,Nova Scotia,45.27,2
+2016,320000,Nova Scotia,45.4,2
+2016,325000,Nova Scotia,45.53,2
+2016,330000,Nova Scotia,45.66,2
+2016,335000,Nova Scotia,45.79,2
+2016,340000,Nova Scotia,45.9,2
+2016,345000,Nova Scotia,46.03,2
+2016,350000,Nova Scotia,46.13,2
+2016,355000,Nova Scotia,46.25,2
+2016,360000,Nova Scotia,46.36,2
+2016,365000,Nova Scotia,46.46,2
+2016,370000,Nova Scotia,46.56,2
+2016,375000,Nova Scotia,46.67,2
+2016,380000,Nova Scotia,46.76,2
+2016,385000,Nova Scotia,46.85,2
+2016,390000,Nova Scotia,46.95,2
+2016,395000,Nova Scotia,47.04,2
+2016,400000,Nova Scotia,47.12,2
+2016,405000,Nova Scotia,47.21,2
+2016,410000,Nova Scotia,47.29,2
+2016,415000,Nova Scotia,47.37,2
+2016,420000,Nova Scotia,47.45,2
+2016,425000,Nova Scotia,47.53,2
+2016,430000,Nova Scotia,47.61,2
+2016,435000,Nova Scotia,47.67,2
+2016,440000,Nova Scotia,47.75,2
+2016,445000,Nova Scotia,47.82,2
+2016,450000,Nova Scotia,47.88,2
+2016,455000,Nova Scotia,47.95,2
+2016,460000,Nova Scotia,48.02,2
+2016,465000,Nova Scotia,48.08,2
+2016,470000,Nova Scotia,48.15,2
+2016,475000,Nova Scotia,48.21,2
+2016,480000,Nova Scotia,48.27,2
+2016,485000,Nova Scotia,48.33,2
+2016,490000,Nova Scotia,48.39,2
+2016,495000,Nova Scotia,48.44,2
+2016,500000,Nova Scotia,48.5,2
 2016,10000,Nunavut,2.89,10
 2016,11000,Nunavut,4.61,10
 2016,12000,Nunavut,6.04,11
@@ -791,6 +1071,46 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,Nunavut,35.9,13
 2016,295000,Nunavut,36.04,13
 2016,300000,Nunavut,36.18,13
+2016,305000,Nunavut,36.32,13
+2016,310000,Nunavut,36.45,13
+2016,315000,Nunavut,36.58,13
+2016,320000,Nunavut,36.7,13
+2016,325000,Nunavut,36.82,13
+2016,330000,Nunavut,36.93,13
+2016,335000,Nunavut,37.06,13
+2016,340000,Nunavut,37.16,13
+2016,345000,Nunavut,37.27,13
+2016,350000,Nunavut,37.37,13
+2016,355000,Nunavut,37.47,13
+2016,360000,Nunavut,37.57,13
+2016,365000,Nunavut,37.66,13
+2016,370000,Nunavut,37.75,13
+2016,375000,Nunavut,37.85,13
+2016,380000,Nunavut,37.93,13
+2016,385000,Nunavut,38.02,13
+2016,390000,Nunavut,38.1,13
+2016,395000,Nunavut,38.19,13
+2016,400000,Nunavut,38.26,13
+2016,405000,Nunavut,38.34,13
+2016,410000,Nunavut,38.41,13
+2016,415000,Nunavut,38.49,13
+2016,420000,Nunavut,38.56,13
+2016,425000,Nunavut,38.63,13
+2016,430000,Nunavut,38.7,13
+2016,435000,Nunavut,38.76,13
+2016,440000,Nunavut,38.83,13
+2016,445000,Nunavut,38.9,13
+2016,450000,Nunavut,38.95,13
+2016,455000,Nunavut,39.01,13
+2016,460000,Nunavut,39.08,13
+2016,465000,Nunavut,39.13,13
+2016,470000,Nunavut,39.19,13
+2016,475000,Nunavut,39.25,13
+2016,480000,Nunavut,39.3,13
+2016,485000,Nunavut,39.36,13
+2016,490000,Nunavut,39.41,13
+2016,495000,Nunavut,39.46,13
+2016,500000,Nunavut,39.51,13
 2016,10000,Ontario,2.89,11
 2016,11000,Ontario,5.06,7
 2016,12000,Ontario,6.88,6
@@ -890,6 +1210,46 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,Ontario,37.69,11
 2016,295000,Ontario,37.83,11
 2016,300000,Ontario,37.96,11
+2016,305000,Ontario,38.1,11
+2016,310000,Ontario,38.23,11
+2016,315000,Ontario,38.36,11
+2016,320000,Ontario,38.47,11
+2016,325000,Ontario,38.6,11
+2016,330000,Ontario,38.71,11
+2016,335000,Ontario,38.83,11
+2016,340000,Ontario,38.93,11
+2016,345000,Ontario,39.03,11
+2016,350000,Ontario,39.13,11
+2016,355000,Ontario,39.24,11
+2016,360000,Ontario,39.33,11
+2016,365000,Ontario,39.42,11
+2016,370000,Ontario,39.52,11
+2016,375000,Ontario,39.61,11
+2016,380000,Ontario,39.69,11
+2016,385000,Ontario,39.78,11
+2016,390000,Ontario,39.86,11
+2016,395000,Ontario,39.94,11
+2016,400000,Ontario,40.01,11
+2016,405000,Ontario,40.09,11
+2016,410000,Ontario,40.16,11
+2016,415000,Ontario,40.24,11
+2016,420000,Ontario,40.31,11
+2016,425000,Ontario,40.38,11
+2016,430000,Ontario,40.45,11
+2016,435000,Ontario,40.5,11
+2016,440000,Ontario,40.57,11
+2016,445000,Ontario,40.64,11
+2016,450000,Ontario,40.7,11
+2016,455000,Ontario,40.75,11
+2016,460000,Ontario,40.82,11
+2016,465000,Ontario,40.87,11
+2016,470000,Ontario,40.93,11
+2016,475000,Ontario,40.98,11
+2016,480000,Ontario,41.04,11
+2016,485000,Ontario,41.09,11
+2016,490000,Ontario,41.15,11
+2016,495000,Ontario,41.19,11
+2016,500000,Ontario,41.24,11
 2016,10000,Prince Edward Island,5.14,1
 2016,11000,Prince Edward Island,7.54,1
 2016,12000,Prince Edward Island,9.55,1
@@ -989,6 +1349,46 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,Prince Edward Island,42.19,5
 2016,295000,Prince Edward Island,42.31,5
 2016,300000,Prince Edward Island,42.43,5
+2016,305000,Prince Edward Island,42.55,5
+2016,310000,Prince Edward Island,42.67,5
+2016,315000,Prince Edward Island,42.79,5
+2016,320000,Prince Edward Island,42.88,5
+2016,325000,Prince Edward Island,42.99,5
+2016,330000,Prince Edward Island,43.09,5
+2016,335000,Prince Edward Island,43.2,5
+2016,340000,Prince Edward Island,43.29,5
+2016,345000,Prince Edward Island,43.38,5
+2016,350000,Prince Edward Island,43.47,5
+2016,355000,Prince Edward Island,43.56,5
+2016,360000,Prince Edward Island,43.65,5
+2016,365000,Prince Edward Island,43.72,5
+2016,370000,Prince Edward Island,43.81,5
+2016,375000,Prince Edward Island,43.89,5
+2016,380000,Prince Edward Island,43.97,5
+2016,385000,Prince Edward Island,44.04,5
+2016,390000,Prince Edward Island,44.11,5
+2016,395000,Prince Edward Island,44.19,5
+2016,400000,Prince Edward Island,44.25,5
+2016,405000,Prince Edward Island,44.32,5
+2016,410000,Prince Edward Island,44.38,5
+2016,415000,Prince Edward Island,44.45,5
+2016,420000,Prince Edward Island,44.51,5
+2016,425000,Prince Edward Island,44.57,5
+2016,430000,Prince Edward Island,44.64,5
+2016,435000,Prince Edward Island,44.69,5
+2016,440000,Prince Edward Island,44.75,5
+2016,445000,Prince Edward Island,44.81,5
+2016,450000,Prince Edward Island,44.86,5
+2016,455000,Prince Edward Island,44.91,5
+2016,460000,Prince Edward Island,44.96,5
+2016,465000,Prince Edward Island,45.01,5
+2016,470000,Prince Edward Island,45.06,5
+2016,475000,Prince Edward Island,45.11,5
+2016,480000,Prince Edward Island,45.16,5
+2016,485000,Prince Edward Island,45.21,5
+2016,490000,Prince Edward Island,45.26,5
+2016,495000,Prince Edward Island,45.29,5
+2016,500000,Prince Edward Island,45.34,5
 2016,10000,Quebec,3.14,5
 2016,11000,Quebec,4.61,11
 2016,12000,Quebec,5.84,13
@@ -1088,6 +1488,46 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,Quebec,45.66,1
 2016,295000,Quebec,45.79,1
 2016,300000,Quebec,45.92,1
+2016,305000,Quebec,46.04,1
+2016,310000,Quebec,46.15,1
+2016,315000,Quebec,46.27,1
+2016,320000,Quebec,46.38,1
+2016,325000,Quebec,46.49,1
+2016,330000,Quebec,46.58,1
+2016,335000,Quebec,46.69,1
+2016,340000,Quebec,46.78,1
+2016,345000,Quebec,46.88,1
+2016,350000,Quebec,46.97,1
+2016,355000,Quebec,47.06,1
+2016,360000,Quebec,47.15,1
+2016,365000,Quebec,47.23,1
+2016,370000,Quebec,47.31,1
+2016,375000,Quebec,47.39,1
+2016,380000,Quebec,47.47,1
+2016,385000,Quebec,47.54,1
+2016,390000,Quebec,47.62,1
+2016,395000,Quebec,47.69,1
+2016,400000,Quebec,47.76,1
+2016,405000,Quebec,47.83,1
+2016,410000,Quebec,47.9,1
+2016,415000,Quebec,47.96,1
+2016,420000,Quebec,48.03,1
+2016,425000,Quebec,48.09,1
+2016,430000,Quebec,48.14,1
+2016,435000,Quebec,48.2,1
+2016,440000,Quebec,48.26,1
+2016,445000,Quebec,48.32,1
+2016,450000,Quebec,48.37,1
+2016,455000,Quebec,48.43,1
+2016,460000,Quebec,48.48,1
+2016,465000,Quebec,48.54,1
+2016,470000,Quebec,48.59,1
+2016,475000,Quebec,48.64,1
+2016,480000,Quebec,48.68,1
+2016,485000,Quebec,48.73,1
+2016,490000,Quebec,48.78,1
+2016,495000,Quebec,48.82,1
+2016,500000,Quebec,48.87,1
 2016,10000,Saskatchewan,2.89,12
 2016,11000,Saskatchewan,4.61,12
 2016,12000,Saskatchewan,6.04,12
@@ -1187,6 +1627,46 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,Saskatchewan,40.04,7
 2016,295000,Saskatchewan,40.17,7
 2016,300000,Saskatchewan,40.3,7
+2016,305000,Saskatchewan,40.43,7
+2016,310000,Saskatchewan,40.55,7
+2016,315000,Saskatchewan,40.67,7
+2016,320000,Saskatchewan,40.78,7
+2016,325000,Saskatchewan,40.9,7
+2016,330000,Saskatchewan,41.0,7
+2016,335000,Saskatchewan,41.11,7
+2016,340000,Saskatchewan,41.21,7
+2016,345000,Saskatchewan,41.31,7
+2016,350000,Saskatchewan,41.4,7
+2016,355000,Saskatchewan,41.5,7
+2016,360000,Saskatchewan,41.59,7
+2016,365000,Saskatchewan,41.67,7
+2016,370000,Saskatchewan,41.76,7
+2016,375000,Saskatchewan,41.85,7
+2016,380000,Saskatchewan,41.93,7
+2016,385000,Saskatchewan,42.0,7
+2016,390000,Saskatchewan,42.08,7
+2016,395000,Saskatchewan,42.16,7
+2016,400000,Saskatchewan,42.22,7
+2016,405000,Saskatchewan,42.3,7
+2016,410000,Saskatchewan,42.37,7
+2016,415000,Saskatchewan,42.44,7
+2016,420000,Saskatchewan,42.51,7
+2016,425000,Saskatchewan,42.57,7
+2016,430000,Saskatchewan,42.63,7
+2016,435000,Saskatchewan,42.69,7
+2016,440000,Saskatchewan,42.75,7
+2016,445000,Saskatchewan,42.82,7
+2016,450000,Saskatchewan,42.87,7
+2016,455000,Saskatchewan,42.92,7
+2016,460000,Saskatchewan,42.98,7
+2016,465000,Saskatchewan,43.04,7
+2016,470000,Saskatchewan,43.09,7
+2016,475000,Saskatchewan,43.14,7
+2016,480000,Saskatchewan,43.19,7
+2016,485000,Saskatchewan,43.24,7
+2016,490000,Saskatchewan,43.29,7
+2016,495000,Saskatchewan,43.33,7
+2016,500000,Saskatchewan,43.38,7
 2016,10000,Yukon,2.89,13
 2016,11000,Yukon,4.61,13
 2016,12000,Yukon,6.32,8
@@ -1286,3 +1766,43 @@ Year,Income,Province,Average Income Tax,Rank At Income
 2016,290000,Yukon,37.46,12
 2016,295000,Yukon,37.59,12
 2016,300000,Yukon,37.73,12
+2016,305000,Yukon,37.86,12
+2016,310000,Yukon,37.99,12
+2016,315000,Yukon,38.12,12
+2016,320000,Yukon,38.23,12
+2016,325000,Yukon,38.35,12
+2016,330000,Yukon,38.46,12
+2016,335000,Yukon,38.58,12
+2016,340000,Yukon,38.68,12
+2016,345000,Yukon,38.78,12
+2016,350000,Yukon,38.88,12
+2016,355000,Yukon,38.99,12
+2016,360000,Yukon,39.08,12
+2016,365000,Yukon,39.16,12
+2016,370000,Yukon,39.26,12
+2016,375000,Yukon,39.35,12
+2016,380000,Yukon,39.43,12
+2016,385000,Yukon,39.51,12
+2016,390000,Yukon,39.59,12
+2016,395000,Yukon,39.68,12
+2016,400000,Yukon,39.75,12
+2016,405000,Yukon,39.82,12
+2016,410000,Yukon,39.89,12
+2016,415000,Yukon,39.97,12
+2016,420000,Yukon,40.04,12
+2016,425000,Yukon,40.11,12
+2016,430000,Yukon,40.17,12
+2016,435000,Yukon,40.23,12
+2016,440000,Yukon,40.3,12
+2016,445000,Yukon,40.36,12
+2016,450000,Yukon,40.42,12
+2016,455000,Yukon,40.48,12
+2016,460000,Yukon,40.54,12
+2016,465000,Yukon,40.6,12
+2016,470000,Yukon,40.65,12
+2016,475000,Yukon,40.7,12
+2016,480000,Yukon,40.76,12
+2016,485000,Yukon,40.81,12
+2016,490000,Yukon,40.86,12
+2016,495000,Yukon,40.91,12
+2016,500000,Yukon,40.96,12
